@@ -1,0 +1,27 @@
+# humanstxt.org
+
+# TEAM
+
+Institution: Algonquin College 2019
+Professor: Thomas J. Bradley
+Team Lead: Shrinidhi Sridhar
+Team: Krystyna Macleod, Katie Sheedy, Matt Beaudry, Nicholas Brown, Raquel Alves Araujo Ferreira
+Site: http://2019.grads.algonquindesign.ca/
+Instagram: https://www.instagram.com/algonquindesign/
+Facebook: https://www.facebook.com/algonquindesign/
+
+---
+
+# TECHNOLOGY
+
+- Atom
+- Github
+_ Github Desktop
+
+---
+
+# SPECIAL THANKS TO
+
+- Thomas Bradley
+
+---

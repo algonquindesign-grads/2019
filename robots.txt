@@ -1,0 +1,3 @@
+Sitemap: https://algonquindesign-grads.github.io/2019/sitemap.xml
+
+User-agent: *
