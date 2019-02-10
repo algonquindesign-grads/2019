@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/nicholas/Documents/School/Semester 5/Grad Show/2019
- * @version a4f25180664331611ccfcb54aa1874bb52b88d53
+ * @version b7c10752a0124a3bfe2cfe5f5a91c459a419ae9f
  */
-const patternManifest_a4f25180664331611ccfcb54aa1874bb52b88d53 = {
+const patternManifest_b7c10752a0124a3bfe2cfe5f5a91c459a419ae9f = {
   "commonInfo": {
     "theme": [],
     "readme": {
@@ -495,21 +495,21 @@ const patternManifest_a4f25180664331611ccfcb54aa1874bb52b88d53 = {
       "path": "/Users/nicholas/Documents/School/Semester 5/Grad Show/2019/patterns/sections",
       "html": [
         {
-          "name": "sponsors-section",
-          "namePretty": "Sponsors section",
-          "filename": "sponsors-section",
-          "path": "/Users/nicholas/Documents/School/Semester 5/Grad Show/2019/patterns/sections/sponsors-section.html",
-          "localPath": "patterns/sections/sponsors-section.html"
+          "name": "sponsors",
+          "namePretty": "Sponsors",
+          "filename": "sponsors",
+          "path": "/Users/nicholas/Documents/School/Semester 5/Grad Show/2019/patterns/sections/sponsors.html",
+          "localPath": "patterns/sections/sponsors.html"
         }
       ],
       "md": [],
       "css": [
         {
-          "name": "sections",
-          "namePretty": "Sections",
-          "filename": "sections",
-          "path": "/Users/nicholas/Documents/School/Semester 5/Grad Show/2019/patterns/sections/sections.css",
-          "localPath": "patterns/sections/sections.css"
+          "name": "sponsors",
+          "namePretty": "Sponsors",
+          "filename": "sponsors",
+          "path": "/Users/nicholas/Documents/School/Semester 5/Grad Show/2019/patterns/sections/sponsors.css",
+          "localPath": "patterns/sections/sponsors.css"
         }
       ],
       "js": []
@@ -535,5 +535,5 @@ const patternManifest_a4f25180664331611ccfcb54aa1874bb52b88d53 = {
   }
 };
 
-patternBotIncludes(patternManifest_a4f25180664331611ccfcb54aa1874bb52b88d53);
+patternBotIncludes(patternManifest_b7c10752a0124a3bfe2cfe5f5a91c459a419ae9f);
 }());
