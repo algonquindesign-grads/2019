@@ -1,0 +1,31 @@
+.designer-outline-box {
+  border: 10px solid #000;
+  height: 90%;
+  width: 90%;
+  position: absolute;
+}
+
+.designer-card .unit:hover .outline-box {
+  opacity: 0;
+  transition: opacity 300ms;
+}
+
+.designer-hover {
+  color: #000;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.7);
+  opacity: 0;
+  transition: opacity 500ms;
+}
+
+.designer-hover .unit:hover .designer-hover,
+.designer-hover .unit:focus .designer-hover {
+  opacity: 1;
+}
+
+.designer-hover .unit:hover,
+.designer-hover .unit:focus {
+  position: relative;
+  z-index: 1000000;
+}
