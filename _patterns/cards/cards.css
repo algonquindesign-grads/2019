@@ -1,0 +1,22 @@
+.designer-card {
+  position: relative;
+}
+
+.outline-box {
+  border: 10px solid #000;
+  height: 100%;
+  width: 100%;
+}
+
+
+.designer-card:hover .designer-blob {
+  z-index: 100;
+}
+
+.designer-card:hover .designer-img {
+  z-index: 10;
+}
+
+.designer-card:hover .designer-text {
+  z-index: 1000;
+}
