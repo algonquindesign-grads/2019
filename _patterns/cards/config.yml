@@ -1,0 +1,8 @@
+title: "Cards"
+description: |
+  A collection of cards for all occasions.
+patterns:
+    designer-card:
+      title: "Designer Card"
+      description: |
+        The Designer Card will appear on the Designers page for each individual designer.
