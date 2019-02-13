@@ -1,3 +1,7 @@
 .designer-boarder {
-  border: 6px solid #000;
+  border: 6px solid #fff;
+}
+
+.designer-picks {
+  color: #f7247e;
 }
