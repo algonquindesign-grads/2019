@@ -1,0 +1,66 @@
+:root {
+  --primary-colour: #6f156c;
+  --secondary-colour: #f8d485;
+  --thirtiary-colour: #fd678a;
+  --dark-colour: #010029;
+
+  --accent-colour: #25adcd;
+
+  --highlight-colour: #ffe9b3;
+  --highlight-secondary-colour: #ff329c;
+  --white-colour: #fff;
+
+  --font-primary: "Proxima nova", Verdana, sans-serif;
+  --font-secondary: cortado, sans-serif;
+}
+
+
+.gradient-bg-one {
+  min-height: 100vh;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 0, 0, .1) 2px, rgba(0, 0, 0, .1) 6px), linear-gradient(-215deg, #f8d485, #fd678a, #6f156c, #010029 80%);
+
+}
+
+.gradient-bg-two {
+  min-height: 100vh;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0, 0, 0, .1) 2px, rgba(0, 0, 0, .1) 6px), linear-gradient(-215deg, #6f156c, #010029 80%);
+
+}
+
+body {
+  background-image: url('../images/palm-trees.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: var(--white-colour);
+  min-height: 100vh;
+}
+
+h1,
+.secondary-font {
+  font-family: var(--font-secondary);
+  text-shadow: 8px 2px 1px var(--highlight-secondary-colour);
+  text-transform: uppercase;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: var(--font-primary)
+}
+
+.highlight-text {
+  color: var(--highlight-colour);
+  text-transform: uppercase;
+}
+
+.secondary-font {
+  text-transform: uppercase;
+  text-shadow: 4px 2px 1px var(--highlight-secondary-colour);
+}
+
+.upper {
+  text-transform: uppercase;
+}
