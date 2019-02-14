@@ -3,6 +3,11 @@ header {
   border-bottom: var(--highlight-secondary-colour) solid 3px;
 }
 
+footer {
+  background-color: var(--dark-colour);
+  border-top: var(--highlight-secondary-colour) solid 3px;
+}
+
 header .nav-items ul li a {
   color: var(--white-colour);
   text-decoration: none;
@@ -10,20 +15,25 @@ header .nav-items ul li a {
 }
 
 .nav-items {
-  text-align: right;
+  text-align: center;
+}
+
+.nav-logo {
+  text-align: center;
 }
 
 /*|TO CHANGE TO :ACTIVE|*/
-header .nav-items ul li {
+header .nav-items ul li a {
   border-bottom: var(--highlight-secondary-colour) solid 5px;
 }
 
+@media only screen and (min-width: 60em) {
 
-@media only screen and (max-width: 38em) {
   .nav-items {
-    text-align: center;
+    text-align: right;
   }
   .nav-logo {
-      text-align: center!important;
+    text-align: left;
   }
+
 }
