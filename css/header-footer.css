@@ -33,3 +33,11 @@ header .nav-items ul li a:active {
   }
 
 }
+
+@media only screen and (max-width: 60em) {
+
+  .nav-logo {
+    margin-bottom: 1em;
+  }
+
+}
