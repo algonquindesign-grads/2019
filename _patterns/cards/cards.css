@@ -2,21 +2,13 @@
   position: relative;
 }
 
-.outline-box {
-  border: 10px solid #000;
-  height: 100%;
+.designer-triangle path {
+  stroke: #FD678A;
+}
+.nametag {
+  font-family: var(--font-primary);
   width: 100%;
-}
-
-
-.designer-card:hover .designer-blob {
-  z-index: 100;
-}
-
-.designer-card:hover .designer-img {
-  z-index: 10;
-}
-
-.designer-card:hover .designer-text {
-  z-index: 1000;
+  height: 15%;
+  background-color: #010029;
+  color: #FD678A;
 }
