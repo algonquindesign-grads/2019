@@ -1,11 +1,10 @@
 header {
-  background-color: var(--dark-colour);
+  background-color: var(--thirtiary-colour);
   border-bottom: var(--highlight-secondary-colour) solid 3px;
 }
 
 footer {
   background-color: var(--dark-colour);
-  border-top: var(--highlight-secondary-colour) solid 3px;
 }
 
 header .nav-items ul li a {
@@ -23,17 +22,22 @@ header .nav-items ul li a {
 }
 
 /*|TO CHANGE TO :ACTIVE|*/
-header .nav-items ul li a {
-  border-bottom: var(--highlight-secondary-colour) solid 5px;
+header .nav-items ul li a:active {
+  background-image: linear-gradient(var(--primary-colour),var(--dark-colour));
 }
 
 @media only screen and (min-width: 60em) {
 
-  .nav-items {
-    text-align: right;
-  }
   .nav-logo {
     text-align: left;
+  }
+
+}
+
+@media only screen and (max-width: 60em) {
+
+  .nav-logo {
+    margin-bottom: 1em;
   }
 
 }
