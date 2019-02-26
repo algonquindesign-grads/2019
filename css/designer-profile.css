@@ -1,7 +1,5 @@
-.designer-boarder {
-  border: 6px solid #fff;
-}
-
 .designer-picks {
-  color: #f7247e;
+  color: var(--white-colour);
+  background-color: var(--dark-colour);
+  border: 4px solid var(--dark-colour);
 }
