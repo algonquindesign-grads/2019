@@ -1,7 +1,7 @@
 .selector {
   transition: color .25s;
-  color: #000000;
-  border: 2px solid #000000;
+  color: #fff;
+  border: 2px solid #fff;
   text-decoration: none;
 }
 
@@ -9,16 +9,16 @@
 .selector:focus,
 .selector:active {
   transition: color .25s;
-  color: #ffffff;
-  border: 2px solid var(--accent-colour);
-  background-color: var(--accent-colour);
+  color: var(--primary-colour);
+  border: 2px solid #fff;
+  background-color: #fff;
   text-decoration: none;
 }
 
 .selected {
   transition: color .25s;
-  color: #000000;
-  border: 2px solid #000000;
+  color: #fff;
+  border: 2px solid #fff;
   text-decoration: none;
 }
 
