@@ -3,7 +3,6 @@
   --color-secondary: #f8d485;
   --color-tertiary: #fd678a;
   --color-accent-dark: #010029;
-
   --color-highlight: #ffe9b3;
   --color-highlight-secondary: #ff329c;
   --color-white: #fff;
@@ -12,6 +11,9 @@
   --font-secondary: cortado, sans-serif;
 }
 
+.main-gradient-background {
+  background: linear-gradient(to bottom, rgba(253, 103, 138, 1) 10%, rgba(111, 21, 108, 1) 36%, rgba(62, 12, 78, 1) 54%);
+}
 
 .gradient-bg-one {
   min-height: 100vh;
@@ -61,4 +63,16 @@ p {
 
 .upper {
   text-transform: uppercase;
+}
+
+.stripes {
+  /* background: repeating-linear-gradient(to bottom, rgba(51, 9, 65, 0.6), rgba(51, 9, 65, 0.6), rgba(51, 9, 65, .2) 10px, rgba(51, 9, 65, .2) 15px); */
+  /* background: repeating-linear-gradient(to bottom, rgba(33, 6, 42, 0.6), rgba(33, 6, 42, 0.6) 5px, rgba(33, 6, 42, 0.2) 5px, rgba(33, 6, 42, 0.2) 10px); */
+  background: repeating-linear-gradient(to bottom, rgba(104, 25, 130, 0.6), rgba(104, 25, 130, 0.6) 5px, rgba(104, 25, 130, 0.2) 5px, rgba(104, 25, 130, 0.2) 10px);
+}
+
+.bg-image {
+  background-image: url("/images/palm-trees-1.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
