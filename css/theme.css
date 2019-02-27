@@ -1,14 +1,12 @@
 :root {
-  --primary-colour: #6f156c;
-  --secondary-colour: #f8d485;
-  --thirtiary-colour: #fd678a;
-  --dark-colour: #010029;
+  --color-primary: #6f156c;
+  --color-secondary: #f8d485;
+  --color-tertiary: #fd678a;
+  --color-accent-dark: #010029;
 
-  --accent-colour: #25adcd;
-
-  --highlight-colour: #ffe9b3;
-  --highlight-secondary-colour: #ff329c;
-  --white-colour: #fff;
+  --color-highlight: #ffe9b3;
+  --color-highlight-secondary: #ff329c;
+  --color-white: #fff;
 
   --font-primary: "Proxima nova", Verdana, sans-serif;
   --font-secondary: cortado, sans-serif;
@@ -31,14 +29,14 @@ body {
   background-image: url('../images/palm-trees.svg');
   background-size: cover;
   background-repeat: no-repeat;
-  color: var(--white-colour);
+  color: var(--color-white);
   min-height: 100vh;
 }
 
 h1,
 .secondary-font {
   font-family: var(--font-secondary);
-  text-shadow: 8px 2px 1px var(--highlight-secondary-colour);
+  text-shadow: 8px 2px 1px var(--color-highlight-secondary);
   text-transform: uppercase;
 }
 
@@ -52,13 +50,13 @@ p {
 }
 
 .highlight-text {
-  color: var(--highlight-colour);
+  color: var(--color-highlight);
   text-transform: uppercase;
 }
 
 .secondary-font {
   text-transform: uppercase;
-  text-shadow: 4px 2px 1px var(--highlight-secondary-colour);
+  text-shadow: 4px 2px 1px var(--color-highlight-secondary);
 }
 
 .upper {

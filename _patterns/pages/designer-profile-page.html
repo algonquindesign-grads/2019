@@ -1,5 +1,6 @@
-{% pattern Header-Footer/header %}
-
+---
+layout: default
+---
 <main class="wrapper push-2">
 
   <div class="grid pad-t-2">
@@ -14,14 +15,18 @@
 
   </div>
 
-  <div class="">
+  {% if name = "" %}
     {% pattern sections/images-1by1 %}
-  </div>
-
-  <div class="">
+  {% else %}
     {% pattern sections/image-1by2 %}
-  </div>
+  {% else %}
+    {% pattern sections/video %}
+  {% endif %}
+
+  {% if name = "" %}
+    {% pattern sections/image-1by2 %}
+  {% else %}
+    {% pattern sections/video %}
+  {% endif %}
 
 </main>
-
-{% pattern Header-Footer/footer %}
