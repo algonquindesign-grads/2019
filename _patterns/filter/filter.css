@@ -10,8 +10,8 @@
 .selector:active {
   transition: color .25s;
   color: #ffffff;
-  border: 2px solid var(--accent-colour);
-  background-color: var(--accent-colour);
+  border: 2px solid var(--color-accent-dark);
+  background-color: var(--color-accent-dark);
   text-decoration: none;
 }
 
