@@ -3,12 +3,12 @@
 }
 
 .designer-triangle path {
-  stroke: var(--thirtiary-colour);
+  stroke: var(--color-tertiary);
 }
 .nametag {
   font-family: var(--font-primary);
   width: 100%;
   height: 15%;
-  background-color: var(--dark-colour);
-  color: var(--thirtiary-colour);
+  background-color: var(--color-accent-dark);
+  color: var(--color-tertiary);
 }
