@@ -1,13 +1,13 @@
-.category-selector {
+.selector {
   transition: color .25s;
   color: #000000;
   border: 2px solid #000000;
   text-decoration: none;
 }
 
-.category-selector:hover,
-.category-selector:focus,
-.category-selector:active {
+.selector:hover,
+.selector:focus,
+.selector:active {
   transition: color .25s;
   color: #ffffff;
   border: 2px solid var(--accent-colour);
@@ -15,7 +15,7 @@
   text-decoration: none;
 }
 
-.category-selected {
+.selected {
   transition: color .25s;
   color: #000000;
   border: 2px solid #000000;
@@ -24,34 +24,18 @@
 
 .product-sort .unit {
   display: none;
+  /* Katie write here: unselected category's css goes here */
 }
 
-.category-all .unit {
-  display: flex;
-}
-
-.category-branding .branding {
-  display: flex;
-}
-
-.category-illustration .illustration {
-  display: flex;
-}
-
-.category-uiux .uiux {
-  display: flex;
-}
-
-.category-web .web {
-  display: flex;
-}
-
-.category-motion .motion {
-  display: flex;
-}
-
+.category-all .unit,
+.category-branding .branding,
+.category-illustration .illustration,
+.category-uiux .uiux,
+.category-web .web,
+.category-motion .motion,
 .category-photography .photography {
   display: flex;
+  /* selected styling goes here */
 }
 
 .products select,
