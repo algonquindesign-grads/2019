@@ -1,6 +1,5 @@
 header {
   background-color: var(--color-tertiary);
-  border-bottom: var(--color-highlight-secondary) solid 3px;
 }
 
 footer {
@@ -21,8 +20,28 @@ header .nav-items ul li a {
   text-align: center;
 }
 
+footer .icon img, .icon svg {
+  transition: 200ms;
+  transition-timing-function: ease-in-out;
+  -webkit-transition: 200ms;
+  -webkit-transition-timing-function: ease-in-out;
+}
+
+footer .icon img, .icon svg {
+  fill: #25ADCD!important;
+}
+
+footer .icon img, .icon svg:hover{
+  fill: var(--color-white)!important;
+}
+
+.nav-items{
+  text-align: center;
+}
+
 /*|TO CHANGE TO :ACTIVE|*/
-header .nav-items ul li a:active {
+header .nav-items ul li a:active,
+header .nav-items ul li a:hover {
   background-image: linear-gradient(var(--color-primary),var(--color-accent-dark));
 }
 
@@ -30,6 +49,10 @@ header .nav-items ul li a:active {
 
   .nav-logo {
     text-align: left;
+  }
+
+  .nav-items {
+    text-align: right;
   }
 
 }
