@@ -1,48 +1,60 @@
-<div class="grid gutter-1-2 wrapper pad-t pad-b">
-  <a href="#designer-list" class="category-selector category-selected unit [ xs-1-8 ] push-r-2 island-1-4 text-center block" id="category-all">
-    <p class="bold mega push-0">All</p>
-  </a>
-  <a href="#designer-list" class="category-selector unit [ xs-1-8 ] island-1-4 text-center block" id="category-branding">
-    <p class="bold mega push-0">Branding</p>
-  </a>
-  <a href="#designer-list" class="category-selector unit [ xs-1-8 ] island-1-4 text-center block" id="category-illustration">
-    <p class="bold mega push-0">Illustration</p>
-  </a>
-  <a href="#designer-list" class="category-selector unit [ xs-1-8 ] island-1-4 text-center block" id="category-uiux">
-    <p class="bold mega push-0">UI/UX</p>
-  </a>
-  <a href="#designer-list" class="category-selector unit [ xs-1-8 ] island-1-4 text-center block" id="category-web">
-    <p class="bold mega push-0">Web</p>
-  </a>
-  <a href="#designer-list" class="category-selector unit [ xs-1-8 ] island-1-4 text-center block" id="category-motion">
-    <p class="bold mega push-0">Motion</p>
-  </a>
-  <a href="#designer-list" class="category-selector unit [ xs-1-8 ] island-1-4 text-center block" id="category-photography">
-    <p class="bold mega push-0">Photography</p>
-  </a>
-</div>
+<ul class="list-group grid gutter-1-2 wrapper pad-t pad-b">
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector selected island-1-4 text-center block" id="category-all">
+      <p class="bold mega push-0">All</p>
+    </a>
+  </li>
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector island-1-4 text-center block" id="category-branding">
+      <p class="bold mega push-0">Branding</p>
+    </a>
+  </li>
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector island-1-4 text-center block" id="category-illustration">
+      <p class="bold mega push-0">Illustration</p>
+    </a>
+  </li>
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector island-1-4 text-center block" id="category-uiux">
+      <p class="bold mega push-0">UI/UX</p>
+    </a>
+  </li>
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector island-1-4 text-center block" id="category-web">
+      <p class="bold mega push-0">Web</p>
+    </a>
+  </li>
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector island-1-4 text-center block" id="category-motion">
+      <p class="bold mega push-0">Motion</p>
+    </a>
+  </li>
+  <li class="unit [ xs-1-8 ] gutter-1-4">
+    <a href="#designer-list" class="selector island-1-4 text-center block" id="category-photography">
+      <p class="bold mega push-0">Photography</p>
+    </a>
+  </li>
+</ul>
 
-<div id="designer" class="category-all">
-  <div id="designer-list" class="grid grid-stretch product-sort island-1-2">
-    <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] branding island-1-2">
-      <a href="#">
-        <img src="/images/box01.svg" alt="">
-      </a>
-    </div>
-    <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-5 ] web island-1-2">
-      <a href="#">
-        <img src="/images/box01.svg" alt="">
-      </a>
-    </div>
-    <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] photography island-1-2">
-      <a href="#">
-        <img src="/images/box01.svg" alt="">
-      </a>
-    </div>
-    <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] web island-1-2">
-      <a href="#">
-        <img src="/images/box01.svg" alt="">
-      </a>
-    </div>
+<div id="designer-list" class="wrapper grid grid-stretch product-sort island-1-2 category-all">
+  <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] branding island-1-2">
+    <a href="#">
+      {% pattern cards/designer-card %}
+    </a>
+  </div>
+  <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-5 ] web island-1-2">
+    <a href="#">
+      {% pattern cards/designer-card %}
+    </a>
+  </div>
+  <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] photography island-1-2">
+    <a href="#">
+      {% pattern cards/designer-card %}
+    </a>
+  </div>
+  <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] web island-1-2">
+    <a href="#">
+      {% pattern cards/designer-card %}
+    </a>
   </div>
 </div>

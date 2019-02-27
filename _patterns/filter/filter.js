@@ -1,21 +1,12 @@
-// Category Selector --------------------
+$('.selector').on('click', function() {
+  var catSelect = $(this).attr('id');
 
-$('.category-selector').on('click', function (e) {
-  e.preventDefault();
-  var categoryName = $(this).attr('id');
-  var breadCrumbName = $(this).children('p').text();
-  $('.category-selector').removeClass('category-selected');
-  $(this).addClass('category-selected');
-  $('#designer').removeClass();
-  $('#designer').addClass(categoryName);
-  $('.bread-crumbs-category a').text(breadCrumbName);
-});
-
-$('.bread-crumbs-all-products').on('click', function (e) {
-  e.preventDefault();
-  $('.category-selector').removeClass('category-selected');
-  $('#category-all').addClass('category-selected');
-  $('#designer').removeClass();
-  $('#designer').addClass('category-all');
-  $('.bread-crumbs-category a').text('All');
+  $('#designer-list').removeClass('category-all');
+  $('#designer-list').removeClass('category-branding');
+  $('#designer-list').removeClass('category-illustration');
+  $('#designer-list').removeClass('category-uiux');
+  $('#designer-list').removeClass('category-web');
+  $('#designer-list').removeClass('category-motion');
+  $('#designer-list').removeClass('category-photography');
+  $('#designer-list').addClass(catSelect);
 });
