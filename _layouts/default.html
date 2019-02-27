@@ -9,14 +9,16 @@
 <body>
 
   <!-- Header -->
-  <!-- {% if page.url contains "index" or page.url contains "thank-you" or page.url == "/" %}
+  {% if page.url contains "index" or page.url contains "thank-you" or page.url == "/" %}
+    {% pattern header-footer/header %}
   {% else %}
-
-  {% endif %} -->
+    {% pattern header-footer/designers-header %}
+  {% endif %}
   <main class="main-gradient-background">
     {{content}}
   </main>
   <!-- Footer -->
+  {% pattern header-footer/footer %}
 
 </body>
 </html>
