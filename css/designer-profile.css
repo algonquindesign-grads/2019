@@ -5,12 +5,10 @@
 }
 
 .designer-links {
-  color:
+  color: var(--white-colour);
 }
 
 a {
-  color: var(--white-colour);
   text-decoration: none;
   font-family: var(--font-primary);
-
 }
