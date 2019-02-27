@@ -1,0 +1,43 @@
+header {
+  background-color: var(--color-tertiary);
+  border-bottom: var(--color-highlight-secondary) solid 3px;
+}
+
+footer {
+  background-color: var(--color-accent-dark);
+}
+
+header .nav-items ul li a {
+  color: var(--color-white);
+  text-decoration: none;
+  font-family: var(--font-primary);
+}
+
+.nav-items {
+  text-align: center;
+}
+
+.nav-logo {
+  text-align: center;
+}
+
+/*|TO CHANGE TO :ACTIVE|*/
+header .nav-items ul li a:active {
+  background-image: linear-gradient(var(--color-primary),var(--color-accent-dark));
+}
+
+@media only screen and (min-width: 60em) {
+
+  .nav-logo {
+    text-align: left;
+  }
+
+}
+
+@media only screen and (max-width: 60em) {
+
+  .nav-logo {
+    margin-bottom: 1em;
+  }
+
+}

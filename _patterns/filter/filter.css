@@ -1,0 +1,73 @@
+.selector {
+  transition: color .25s;
+  color: #000000;
+  border: 2px solid #000000;
+  text-decoration: none;
+}
+
+.selector:hover,
+.selector:focus,
+.selector:active {
+  transition: color .25s;
+  color: #ffffff;
+  border: 2px solid var(--color-accent-dark);
+  background-color: var(--color-accent-dark);
+  text-decoration: none;
+}
+
+.selected {
+  transition: color .25s;
+  color: #000000;
+  border: 2px solid #000000;
+  text-decoration: none;
+}
+
+.product-sort .unit {
+  display: none;
+  /* Katie write here: unselected category's css goes here */
+}
+
+.category-all .unit,
+.category-branding .branding,
+.category-illustration .illustration,
+.category-uiux .uiux,
+.category-web .web,
+.category-motion .motion,
+.category-photography .photography {
+  display: flex;
+  /* selected styling goes here */
+}
+
+.products select,
+.products label {
+  margin-bottom: .65rem;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .products h2 {
+    margin: 0;
+  }
+
+  .product-search-sort {
+    text-align: right;
+  }
+
+  .product-search-sort .unit:last-child {
+    padding-left: 1.4rem;
+  }
+
+  .products select,
+  .products label {
+    margin-bottom: 0;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .product-search-sort .unit:last-child {
+    padding-left: 1.5rem;
+  }
+
+}
