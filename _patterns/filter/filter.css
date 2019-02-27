@@ -1,7 +1,7 @@
 .selector {
   transition: color .25s;
-  color: #000000;
-  border: 2px solid #000000;
+  color: #fff;
+  border: 2px solid #fff;
   text-decoration: none;
 }
 
@@ -17,8 +17,8 @@
 
 .selected {
   transition: color .25s;
-  color: #000000;
-  border: 2px solid #000000;
+  color: #fff;
+  border: 2px solid #fff;
   text-decoration: none;
 }
 
