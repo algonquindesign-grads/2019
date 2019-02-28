@@ -1,8 +1,8 @@
 ---
 name: Fakeha Abdullah
-last-name: Abdullah
-first-name: Fakeha
-specialization: Branding, Print
+last-name: abdullah
+first-name: fakeha
+specialization: Branding, Motion Graphics, Print
 specialty:
   - branding
   - motion graphics
@@ -10,12 +10,12 @@ specialty:
 email: fakeharafat@gmail.com
 website: fakeharafat@gmail.com
 bio: Currently Ottawa based, but I’m always on the move! NJ + LDN + DXB = 11 years of my life. I care about aesthetics and believe that it’s as equally important as function. My everyday fuel comes from a pack of SOUR PATCH Kids and not a cup of coffee.
-behance_link:
-vimeo_link: https://vimeo.com/user71744295
-instagram_link: https://www.instagram.com/fakeha_abdullah/
-linkedin_link:
-github_link:
-dribbble_link:
+behance-link:
+vimeo-link: https://vimeo.com/user71744295
+instagram-link: https://www.instagram.com/fakeha-abdullah/
+linkedin-link:
+github-link:
+dribbble-link:
 
 slot-1-image:
 slot-1-video: https://vimeo.com/316439768
