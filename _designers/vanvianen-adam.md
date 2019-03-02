@@ -1,4 +1,5 @@
 ---
+layout:
 name: Adam Van-Vianen
 last-name: vanvianen
 first-name: adam
@@ -17,15 +18,10 @@ linkedin-link: https://www.linkedin.com/in/adam-van-vianen-084059176/
 github-link:
 dribbble-link:
 
-slot-1-image: image-1.jpg
-slot-1-video:
 
-slot-2-image: image-2.jpg
-slot-2-video:
-
-slot-3-image:
-slot-3-video: https://vimeo.com/315240969
-
-slot-4-image:
-slot-4-video:
+video:
+  - https://vimeo.com/315240969
+image:
+  - image-3.jpg
+  - image-4.jpg
 ---

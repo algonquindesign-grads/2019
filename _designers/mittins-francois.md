@@ -1,4 +1,5 @@
 ---
+layout:
 name: Francois Mittins
 last-name: mittins
 first-name: francois
@@ -17,15 +18,11 @@ linkedin-link: https://www.linkedin.com/in/françois-mittins-bb916b129/
 github-link:
 dribbble-link:
 
-slot-1-image: image-1.svg
-slot-1-video:
+video:
+  - https://vimeo.com/315953483
 
-slot-2-image: image-2.jpg
-slot-2-video:
+image:
+  - image-3.jpg
+  - image-4.jpg
 
-slot-3-image:
-slot-3-video: https://vimeo.com/315953483
-
-slot-4-image:
-slot-4-video:
 ---

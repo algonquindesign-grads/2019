@@ -1,4 +1,5 @@
 ---
+layout:
 name: David Preseault
 last-name: preseault
 first-name: david
@@ -17,15 +18,8 @@ linkedin-link:
 github-link:
 dribbble-link:
 
-slot-1-image:
-slot-1-video: https://vimeo.com/313034383
+video:
+  - https://vimeo.com/302878626
+  - https://vimeo.com/313034383
 
-slot-2-image:
-slot-2-video:
-
-slot-3-image:
-slot-3-video: https://vimeo.com/302878626
-
-slot-4-image:
-slot-4-video:
 ---

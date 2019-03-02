@@ -1,4 +1,5 @@
 ---
+layout:
 name: Katie Sheedy
 last-name: sheedy
 first-name: katie
@@ -17,15 +18,10 @@ linkedin-link: https://www.linkedin.com/in/katie-sheedy/
 github-link:
 dribbble-link:
 
-slot-1-image: image-1.jpg
-slot-1-video:
+video:
+  - https://vimeo.com/306409554
+image:
+  - image-3.jpg
+  - image-4.jpg
 
-slot-2-image: image-2.jpg
-slot-2-video:
-
-slot-3-image:
-slot-3-video: https://vimeo.com/306409554
-
-slot-4-image:
-slot-4-video:
 ---
