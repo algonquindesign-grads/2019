@@ -1,4 +1,5 @@
 ---
+layout:
 name: Jennifer Sommerfeld
 last-name: sommerfeld
 first-name: jennifer
@@ -17,15 +18,10 @@ linkedin-link: https://www.linkedin.com/in/jennifer-sommerfeld-b32564130
 github-link:
 dribbble-link:
 
-slot-1-image:
-slot-1-video: https://vimeo.com/306380208
 
-slot-2-image:
-slot-2-video:
+video:
+  - https://vimeo.com/306380208
+  - https://vimeo.com/315263562
 
-slot-3-image:
-slot-3-video: https://vimeo.com/315263562
 
-slot-4-image:
-slot-4-video:
 ---

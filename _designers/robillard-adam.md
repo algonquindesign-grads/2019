@@ -1,4 +1,5 @@
 ---
+layout:
 name: Adam Robillard
 last-name: robillard
 first-name: adam
@@ -17,15 +18,10 @@ linkedin-link: https://www.linkedin.com/in/adam-robillard/
 github-link:
 dribbble-link:
 
-slot-1-image: image-1.jpg
-slot-1-video:
+video:
+  - https://vimeo.com/297521138
+image:
+  - image-3.jpg
+  - image-4.jpg
 
-slot-2-image: image-2.jpg
-slot-2-video:
-
-slot-3-image:
-slot-3-video: https://vimeo.com/297521138
-
-slot-4-image:
-slot-4-video:
 ---

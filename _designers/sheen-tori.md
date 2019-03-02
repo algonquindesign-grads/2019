@@ -1,4 +1,5 @@
 ---
+layout:
 name: Tori Sheen
 last-name: sheen
 first-name: tori
@@ -16,15 +17,7 @@ linkedin-link:
 github-link:
 dribbble-link:
 
-slot-1-image: image-1.png
-slot-1-video:
-
-slot-2-image:
-slot-2-video:
-
-slot-3-image: image-3.png
-slot-3-video:
-
-slot-4-image:
-slot-4-video:
+image:
+  - image-1.jpg
+  - image-2.jpg
 ---

@@ -1,4 +1,5 @@
 ---
+layout:
 name: Scott Martel
 last-name: martel
 first-name: scott
@@ -17,15 +18,8 @@ linkedin-link:
 github-link:
 dribbble-link:
 
-slot-1-image: image-1.jpg
-slot-1-video:
-
-slot-2-image: image-2.jpg
-slot-2-video:
-
-slot-3-image: image-3.jpg
-slot-3-video:
-
-slot-4-image:
-slot-4-video:
+image:
+  - image-1.jpg
+  - image-2.jpg
+  - image-3.jpg
 ---
