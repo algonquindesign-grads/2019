@@ -37,12 +37,12 @@
 </ul>
 
 <div id="designer-list" class="wrapper grid grid-stretch product-sort island-1-2 category-all">
-  <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] branding island-1-2">
-    <a href="#">
+  {% for designer in site.designers %}
+    <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-4 ] branding island-1-2">
       {% pattern cards/designer-card %}
-    </a>
-  </div>
-  <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-5 ] web island-1-2">
+    </div>
+  {% endfor %}
+  <!-- <div class="unit unit-content-distribute [ xs-1 s-1-2 m-1-4 l-1-5 ] web island-1-2">
     <a href="#">
       {% pattern cards/designer-card %}
     </a>
@@ -56,5 +56,5 @@
     <a href="#">
       {% pattern cards/designer-card %}
     </a>
-  </div>
+  </div> -->
 </div>

@@ -1,11 +1,11 @@
-<a href="#" class="designer-card">
+<a href="{{site.baseurl}}/designers/{{designer.last-name}}-{{designer.first-name}}" class="designer-card">
   <div class="embed embed-1by1">
     <img class="img-flex embed-item designer-triangle" src="/images/triangle01.svg" alt="">
     <div class="embed embed-1by1 pin-c">
-      <img class="img-flex embed-item" src="/images/designer-template.svg" alt="">
+      <img class="img-flex embed-item" src="https://grads.images.algonquindesign.ca/2019/portraits-designers/{{designer.last-name}}-{{designer.first-name}}.png" alt="Portrait of {{designer.name | default: 'Image of John Doe'}}" alt="">
     </div>
     <div class="pin-cb text-center text-upper nametag">
-      <p class=" milli pin-c">John Doe</p>
+      <p class="milli pin-c">{{designer.name | default: 'Image of John Doe'}}</p>
     </div>
   </div>
 </a>
