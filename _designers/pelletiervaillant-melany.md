@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Melany Pelletier-Vaillant
 last-name: pelletiervaillant
 first-name: melany

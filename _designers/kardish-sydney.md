@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allvideos
 name: Sydney Kardish
 last-name: kardish
 first-name: sydney
@@ -18,7 +18,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/315810506
-  - https://vimeo.com/297686007
+  - 315810506
+  - 297686007
 
 ---

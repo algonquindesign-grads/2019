@@ -1,8 +1,8 @@
 ---
-layout:
-name:
-last-name:
-first-name:
+layout: designer-profile-allimages
+name: Derick Dinh
+last-name: dinh
+first-name: derick
 specialization: Branding, Illustration, Apparel Design
 specialty:
   - branding

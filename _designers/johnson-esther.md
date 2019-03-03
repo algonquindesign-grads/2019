@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimage
 name: Esther Johnson
 last-name: johnson
 first-name: esther
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/315170734
+  - 315170734
 
 image:
   - image-3.jpg

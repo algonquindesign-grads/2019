@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Fakeha Abdullah
 last-name: abdullah
 first-name: fakeha
@@ -19,9 +19,9 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316439768
+  - 316439768
 
 images:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 ---

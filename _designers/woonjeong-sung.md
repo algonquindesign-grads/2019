@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Sung Woon Jeong
 last-name: woonjeong
 first-name: sung
@@ -18,7 +18,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316337555
+  - 316337555
 image:
   - image-3.jpg
   - image-4.jpg

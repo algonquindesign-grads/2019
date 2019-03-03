@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Krystyna Macleod
 last-name: macleod
 first-name: krystyna
@@ -20,7 +20,7 @@ dribbble-link:
 
 
 video:
-  - https://vimeo.com/303142065
+  - 303142065
 
 image:
   - image-3.jpg

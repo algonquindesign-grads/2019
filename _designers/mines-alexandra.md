@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Alexandra Mines
 last-name: mines
 first-name: alexandra

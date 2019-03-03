@@ -1,7 +1,7 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Sara Habel-Liboiron
-last-name: habel-liboiron
+last-name: habelliboiron
 first-name: sara
 specialization: Branding, UX/UI, Marketing
 specialty:
@@ -10,7 +10,7 @@ specialty:
   - marketing
 email: hello@sarahabel.art
 website: https://sarahabel.art/
-bio: My passion is to communicate ideas that inspire, inform, and captivate people—always with a positive attitude. P.S: don’t fret, even I don’t know how to pronounce my last name.
+bio: 'My passion is to communicate ideas that inspire, inform, and captivate people—always with a positive attitude. P.S: don’t fret, even I don’t know how to pronounce my last name.'
 behance-link: https://www.behance.net/sarahabel
 vimeo-link:
 instagram-link: https://www.instagram.com/sarahabel.art

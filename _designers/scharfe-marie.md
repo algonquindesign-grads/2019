@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/242988217
+  - 242988217
 image:
   - image-3.jpg
   - image-4.jpg

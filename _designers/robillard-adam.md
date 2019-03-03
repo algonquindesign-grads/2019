@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Adam Robillard
 last-name: robillard
 first-name: adam
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/297521138
+  - 297521138
 image:
   - image-3.jpg
   - image-4.jpg

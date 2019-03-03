@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Catherine Legault
 last-name: legault
 first-name: catherine
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/312731335
+  - 312731335
 
 image:
   - image-3.jpg

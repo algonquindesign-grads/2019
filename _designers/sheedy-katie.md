@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Katie Sheedy
 last-name: sheedy
 first-name: katie
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/306409554
+  - 306409554
 image:
   - image-3.jpg
   - image-4.jpg

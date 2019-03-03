@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-3by2images
 name: Tori Sheen
 last-name: sheen
 first-name: tori

@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Evelyn Hopky
 last-name: hopky
 first-name: evelyn

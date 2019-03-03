@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Mykal Baytaluk
 last-name: baytaluk
 first-name: mykal
@@ -18,10 +18,10 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316133138
+  - 316133138
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---

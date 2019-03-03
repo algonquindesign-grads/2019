@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Shrinidhi Sridhar
 last-name: sridhar
 first-name: shrinidhi

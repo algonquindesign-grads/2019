@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Jordan Racine
 last-name: racine
 first-name: jordan

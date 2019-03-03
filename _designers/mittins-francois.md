@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Francois Mittins
 last-name: mittins
 first-name: francois
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/315953483
+  - 315953483
 
 image:
   - image-3.jpg

@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Matt Beaudry
 last-name: beaudry
 first-name: matt
@@ -19,10 +19,10 @@ github-link: https://github.com/mattibdry
 dribbble-link:
 
 video:
-  - https://vimeo.com/316467266
+  - 316467266
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---
