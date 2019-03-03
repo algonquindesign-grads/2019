@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-imagesbyimage
 name: Scott Martel
 last-name: martel
 first-name: scott

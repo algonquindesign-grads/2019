@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Sarah Norris
 last-name: norris
 first-name: sarah
@@ -18,7 +18,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316461019
+  - 316461019
 
 image:
   - image-3.jpg

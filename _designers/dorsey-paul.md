@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allvideos
 name: Paul Dorsey
 last-name: dorsey
 first-name: paul
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/315527031
-  - https://vimeo.com/299092940
+  - 315527031
+  - 299092940
 
 ---

@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allvideos
 name: Petra van Eeghen
 last-name: vaneeghen
 first-name: petra
@@ -17,6 +17,6 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316475857
-  - https://vimeo.com/269882379
+  - 316475857
+  - 269882379
 ---

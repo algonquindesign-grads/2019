@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Alex Spagnuolo
 last-name: spagnuolo
 first-name: alex

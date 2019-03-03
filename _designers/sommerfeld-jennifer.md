@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allvideos
 name: Jennifer Sommerfeld
 last-name: sommerfeld
 first-name: jennifer
@@ -20,8 +20,8 @@ dribbble-link:
 
 
 video:
-  - https://vimeo.com/306380208
-  - https://vimeo.com/315263562
+  - 306380208
+  - 315263562
 
 
 ---

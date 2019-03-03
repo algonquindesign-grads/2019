@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Holli Holton
 last-name: holton
 first-name: holli
@@ -19,10 +19,10 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/312534833
+  - 312534833
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---

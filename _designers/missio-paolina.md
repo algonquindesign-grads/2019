@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allimages
 name: Paolina Missio
 last-name: missio
 first-name: paolina

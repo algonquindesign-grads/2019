@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Tanya Andrews
 last-name: andrews
 first-name: tanya
@@ -10,8 +10,7 @@ specialty:
   - illustration
 email: hello@tanyadesigns.ca
 website: http://tanyadesigns.ca/
-bio: Hi! Tanya here.  Dog lover, Artist, and Graphic Designer.  A quote that I live by “Creativity is the greatest rebellion in existence.”
-― Osho
+bio: Hi! Tanya here.  Dog lover, Artist, and Graphic Designer.  A quote that I live by “Creativity is the greatest rebellion in existence.” ― Osho
 behance-link:
 vimeo-link: https://vimeo.com/user70856914
 instagram-link:
@@ -21,7 +20,7 @@ dribbble-link:
 
 
 video:
-  - https://vimeo.com/263211043
+  - 263211043
 
 image:
   - image-3.jpg

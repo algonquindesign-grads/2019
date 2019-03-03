@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Adam Van-Vianen
 last-name: vanvianen
 first-name: adam
@@ -20,7 +20,7 @@ dribbble-link:
 
 
 video:
-  - https://vimeo.com/315240969
+  - 315240969
 image:
   - image-3.jpg
   - image-4.jpg

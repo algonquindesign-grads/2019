@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Diandra Thompson
 last-name: thompson
 first-name: diandra
@@ -18,7 +18,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316475880
+  - 316475880
 
 image:
   - image-3.jpg

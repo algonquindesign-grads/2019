@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-allvideos
 name: David Preseault
 last-name: preseault
 first-name: david
@@ -19,7 +19,7 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/302878626
-  - https://vimeo.com/313034383
+  - 302878626
+  - 313034383
 
 ---

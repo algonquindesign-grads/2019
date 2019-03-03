@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Tamara Kazaniwsky
 last-name: kazaniwsky
 first-name: tamara
@@ -19,10 +19,10 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/315299680
+  - 315299680
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---

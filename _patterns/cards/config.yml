@@ -2,7 +2,34 @@ title: "Cards"
 description: |
   A collection of cards for all occasions.
 patterns:
-    designer-card:
-      title: "Designer Card"
-      description: |
-        The Designer Card will appear on the Designers page for each individual designer.
+  designer-card:
+    title: "Designer Card"
+    description: |
+      The Designer Card will appear on the Designers page for each individual designer.
+    fields:
+      - name: url
+        type: url
+        example: "/thank-you"
+      - name: triangleImage
+        type: image
+        example: "/images/designer-template.svg"
+      - name: image
+        type: image
+        example: "/images/designer-template.svg"
+      - name: name
+        type: string
+        example: "John Doe"
+  profs-card:
+    title: "Professors Card"
+    description: |
+      The Designer Card will appear on the Designers page for each individual designer.
+    fields:
+      - name: triangleImage
+        type: image
+        example: "pepper.jpg"
+      - name: image
+        type: image
+        example: "pepper.jpg"
+      - name: name
+        type: string
+        example: "John Doe"

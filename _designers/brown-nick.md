@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Nick Brown
 last-name: brown
 first-name: nick
@@ -19,10 +19,10 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/303958132
+  - 303958132
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.gif
 
 ---

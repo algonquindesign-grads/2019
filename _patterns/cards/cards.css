@@ -8,7 +8,11 @@
 .nametag {
   font-family: var(--font-primary);
   width: 100%;
-  height: 15%;
+  height: 18%;
   background-color: var(--color-accent-dark);
   color: var(--color-tertiary);
+}
+
+.embed-5by4, .embed--5by4 {
+  padding-top: 80%;
 }

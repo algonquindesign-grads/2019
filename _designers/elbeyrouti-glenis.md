@@ -1,7 +1,7 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Glenis El-Beyrouti
-last-name: el-beyrouti
+last-name: elbeyrouti
 first-name: glenis
 specialization: Branding, UX/UI, Motion Graphics
 specialty:
@@ -19,10 +19,10 @@ github-link:
 dribbble-link:
 
 video:
-  - https://vimeo.com/316698504
+  - 316698504
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---

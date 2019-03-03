@@ -1,7 +1,7 @@
 ---
-layout:
+layout: designer-profile-imagesbyimage
 name: Amber Bailey
-last-name:  bailey
+last-name: bailey
 first-name: amber
 specialization: Branding, UX/UI, Illustration
 specialty:

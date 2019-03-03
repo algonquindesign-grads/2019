@@ -1,8 +1,8 @@
 ---
-layout:
+layout: designer-profile-imagesbyimage
 name: Raquel Alves
 last-name: alves
-first-name: Raquel
+first-name: raquel
 specialization: Branding, UX/UI, Web Design
 specialty:
   - branding
