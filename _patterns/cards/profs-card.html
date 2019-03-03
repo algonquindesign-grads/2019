@@ -1,7 +1,7 @@
 <div class="embed embed-1by1">
-  <img class="img-flex embed-item designer-triangle" src="/images/{{include.triangleImage | default: 'triangle01.svg'}}" alt="">
+  <img class="img-flex embed-item designer-triangle" src="/images/{{include.triangleImage | default: '/triangle01.svg'}}" alt="">
   <div class="embed embed-1by1 pin-tc">
-    <img class="img-flex embed-item" src="https://grads.images.algonquindesign.ca/2019/portraits-profs/{{include.image}}" alt="Potrait of {{include.fullname | default: 'Image of John Doe'}}">
+    <img class="img-flex embed-item" src="https://grads.images.algonquindesign.ca/2019/portraits-profs/{{include.image | default: '/images/designer-template.svg'}}" alt="Potrait of {{include.fullname | default: 'Image of John Doe'}}">
   </div>
   <div class="pin-cb text-center text-upper nametag">
     <p class="milli text-center pad-t-1-2">{{include.name | default: 'Jane Doe'}}</p>

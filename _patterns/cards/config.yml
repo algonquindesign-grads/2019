@@ -12,10 +12,10 @@ patterns:
         example: "/thank-you"
       - name: triangleImage
         type: image
-        example: "pepper.jpg"
+        example: "/images/designer-template.svg"
       - name: image
         type: image
-        example: "pepper.jpg"
+        example: "/images/designer-template.svg"
       - name: name
         type: string
         example: "John Doe"
