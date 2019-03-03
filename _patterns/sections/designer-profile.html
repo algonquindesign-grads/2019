@@ -1,61 +1,66 @@
-<div class="island">
+<div class="island-2">
   <h1 class="push-1-4 zetta">Name</h1>
 
   <ul class="list-group-inline push-2">
-    <li class="list-group-item"><p class="designer-picks push-0">Branding</p></li>
-    <li class="list-group-item"><p class="designer-picks push-0">UI/UX</p></li>
-    <li class="list-group-item"><p class="designer-picks push-0">Motion</p></li>
+    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 micro">{{page.specialty[0] | upcase | default: 'Branding'}}</p></li>
+    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 micro">{{page.specialty[1] | upcase | default: 'Illustration'}}</p></li>
+    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 micro">{{page.specialty[2] | upcase | default: 'Motion Graphics'}}</p></li>
   </ul>
 
   <p class="push">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
   <div class="push-1-4">
-    <a class="designer-links bold" href="#">Website</a>
+    <a class="designer-links bold" href="{{page.website}}">Website</a>
   </div>
 
-  <div class="">
+  <div class="{{page.email}}">
     <a class="designer-links bold" href="#">Email</a>
   </div>
 
 
   <div class="pad-b pad-t">
     <ul class="list-group-inline push-0">
-      {% if behance.link != blank %}
+      {% if page.behance-link != blank %}
         <li>
-          <a class="{{page.behance-link}}" href="#">
+          <a href="{{page.behance-link}}">
             <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#behance-logo"></use></svg></i>
           </a>
         </li>
-      {% elsif vimeo.link != blank %}
+      {% endif %}
+      {% if page.behance-link != blank %}
         <li>
-          <a class="{{page.vimeo-link}}" href="#">
+          <a href="{{page.vimeo-link}}">
             <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#vimeo-logo"></use></svg></i>
           </a>
         </li>
-      {% elsif instagram.link != blank %}
-      <li>
-        <a class="{{page.instagram-link}}" href="#">
-          <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
-        </a>
-      </li>
-      {% elsif linkedin.link != blank %}
-      <li>
-        <a class="{{page.linkedin-link}}" href="#">
-          <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#linkedin-logo"></use></svg></i>
-        </a>
-      </li>
-      {% elsif github.link != blank %}
-      <li>
-        <a class="{{page.github-link}}" href="#">
-          <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#github-logo"></use></svg></i>
-        </a>
-      </li>
-      {% else %}
-      <li>
-        <a class="{{page.dribbble-link}}" href="#">
-          <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#dribbble-logo"></use></svg></i>
-        </a>
-      </li>
+        {% endif %}
+      {% if page.behance-link != blank %}
+        <li>
+          <a href="{{page.instagram-link}}">
+            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
+          </a>
+        </li>
+      {% endif %}
+      {% if page.behance-link != blank %}
+        <li>
+          <a href="{{page.linkedin-link}}">
+            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#linkedin-logo"></use></svg></i>
+          </a>
+        </li>
+      {% endif %}
+      {% if page.behance-link != blank %}
+        <li>
+          <a href="{{page.github-link}}">
+            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#github-logo"></use></svg></i>
+          </a>
+        </li>
+      {% endif %}
+      {% if page.behance-link != blank %}
+        <li>
+          <a href="{{page.dribbble-link}}">
+            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#dribbble-logo"></use></svg></i>
+          </a>
+        </li>
       {% endif %}
     </ul>
   </div>
