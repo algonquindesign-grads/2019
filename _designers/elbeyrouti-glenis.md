@@ -7,7 +7,7 @@ specialization: Branding, UX/UI, Motion Graphics
 specialty:
   - branding
   - uxui
-  - motion graphics
+  - motiongraphics
 email: yesreply@glenis.design
 website: http://glenis.design/
 bio: Sprinkle a little Glenis onto your creative projects and suddenly you've got some smooth motion graphics and bold colour palettes bringing things to life. I like my designs like I like my food—extra spicy.
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/glenis.elbeyrouti/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 316698504

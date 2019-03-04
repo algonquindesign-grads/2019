@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/evelynhopky/
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

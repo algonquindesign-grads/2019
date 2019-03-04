@@ -5,7 +5,7 @@ last-name: norris
 first-name: sarah
 specialization: Motion Graphics, Typography, Layout
 specialty:
-  - Motion Graphics
+  - motiongraphics
   - Typography
 email: sarahnorrisdesign@gmail.com
 website: sarahnorrisdesign.ca
@@ -16,6 +16,7 @@ instagram-link: https://www.instagram.com/fakeha-abdullah/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 316461019

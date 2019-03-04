@@ -18,6 +18,7 @@ instagram-link: https://www.instagram.com/itsambersdesigns/?hl=en
 linkedin-link: https://www.linkedin.com/in/amber-bailey-43409a135
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

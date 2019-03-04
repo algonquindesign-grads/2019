@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/jordanracine/
 linkedin-link: https://www.linkedin.com/in/jordan-racine-44490611b/
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

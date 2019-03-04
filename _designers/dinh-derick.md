@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/derickdinh.design/?hl=en
 linkedin-link: https://www.linkedin.com/in/derickdinh/
 github-link:
 dribbble-link:
+triangle: "01"
 
 
 image:

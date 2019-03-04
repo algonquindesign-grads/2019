@@ -6,7 +6,7 @@ first-name: jennifer
 specialization: Branding, Motion Graphics, Illustration
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - Illustration
 email: jennifer@sommerfeldesigns.ca
 website: http://sommerfeldesigns.ca/
@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/jennifer-sommerfeld-b32564130
 github-link:
 dribbble-link:
+triangle: "01"
 
 
 video:

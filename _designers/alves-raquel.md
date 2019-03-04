@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/raquel-alves-a-f/
 github-link:  https://github.com/RaquelAlves01s
 dribbble-link:
+triangle: "01"
 
 images:
   - image-1.jpg

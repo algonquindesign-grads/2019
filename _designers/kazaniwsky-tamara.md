@@ -5,7 +5,7 @@ last-name: kazaniwsky
 first-name: tamara
 specialization: Motion Graphics, Illustration, Print
 specialty:
-  - motion graphics
+  - motiongraphics
   - illustration
   - print
 email: tamarakazaniwsky@gmail.com
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/tamarakazaniwskyart/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 315299680

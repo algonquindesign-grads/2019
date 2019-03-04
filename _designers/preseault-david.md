@@ -6,7 +6,7 @@ first-name: david
 specialization: Branding, Motion Graphics, Illustration
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - illustration
 email: dprezoh@gmail.com
 website: preseault.ca
@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 302878626

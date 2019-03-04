@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/bryan_chanchan/?hl=en
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

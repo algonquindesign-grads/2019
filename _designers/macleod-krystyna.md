@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/krystynamacleod/
 linkedin-link: https://www.linkedin.com/in/krystyna-macleod-042417173/
 github-link:
 dribbble-link:
+triangle: "01"
 
 
 video:

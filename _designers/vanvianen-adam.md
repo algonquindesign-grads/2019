@@ -6,7 +6,7 @@ first-name: adam
 specialization: Branding, Motion Graphics, Photography
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - photography
 email: contact@adamvanvianendesign.ca
 website: http://adamvanvianendesign.ca
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/adamvanvianendesigns/
 linkedin-link: https://www.linkedin.com/in/adam-van-vianen-084059176/
 github-link:
 dribbble-link:
+triangle: "01"
 
 
 video:

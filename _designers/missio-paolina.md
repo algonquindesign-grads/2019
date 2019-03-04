@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/paolinamissio/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

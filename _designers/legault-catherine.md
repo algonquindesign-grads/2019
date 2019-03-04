@@ -6,7 +6,7 @@ first-name: catherine
 specialization: Branding, Motion Graphics, Illustration
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - illustration
 email: catherine.legault@rogers.com
 website: https://catherinelegault.ca/
@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/catherine-legault-533b95111/
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 312731335

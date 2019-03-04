@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/aaspagnuolo/
 linkedin-link: https://www.linkedin.com/in/aaspagnuolo/
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

@@ -16,6 +16,7 @@ instagram-link:
 linkedin-link: www.linkedin.com/in/diandra-thompson
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 316475880

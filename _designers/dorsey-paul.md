@@ -7,7 +7,7 @@ specialization: Branding, UX/UI, Motion Graphics
 specialty:
   - branding
   - uxui
-  - motion graphics
+  - motiongraphics
 email: hello@pauldorsey.ca
 website: pauldorsey.ca
 bio: Washed up ex-hockey player turned graphic designer, I love incorporating my love for sports into designs whenever I can. Im looking to pursue a career in UI/UX design, branding & Motion. Make sure to check out my portfolio!
@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 315527031

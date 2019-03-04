@@ -6,7 +6,7 @@ first-name: katie
 specialization: Branding, Motion Graphics, Illustration
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - illustration
 email: hello@katiesheedy.ca
 website: katiesheedy.ca
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/sheedy.katie/
 linkedin-link: https://www.linkedin.com/in/katie-sheedy/
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 306409554
