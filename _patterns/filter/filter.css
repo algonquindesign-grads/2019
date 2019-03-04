@@ -22,20 +22,74 @@
   text-decoration: none;
 }
 
-.product-sort .unit {
-  display: none;
+.designer-card {
+  filter: blur(2px);
+  /* transform: skew(2deg, 2deg) rotate(-3deg); */
+  transition:
+    filter .25s,
+    transform .25s;
   /* Katie write here: unselected category's css goes here */
 }
 
-.category-all .unit,
-.category-branding .branding,
-.category-illustration .illustration,
-.category-uiux .uiux,
-.category-web .web,
-.category-motion .motion,
-.category-photography .photography {
-  display: flex;
+.designer-card .nametag {
+  color: var(--color-accent-dark);
+}
+
+.product-sort .designer-card img {
+  filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+}
+
+.all .branding,
+.all .illustration,
+.all .uxui,
+.all .webdesign,
+.all .motiongraphics,
+.all .photography,
+.all .print,
+.branding .branding,
+.illustration .illustration,
+.uxui .uxui,
+.webdesign .webdesign,
+.motiongraphics .motiongraphics,
+.photography .photography,
+.print .print {
+  filter: blur(0);
+  transform: skew(0) rotate(0);
   /* selected styling goes here */
+}
+
+.all .branding img,
+.all .illustration img,
+.all .uxui img,
+.all .webdesign img,
+.all .motiongraphics img,
+.all .photography img,
+.all .print img,
+.branding .branding img,
+.illustration .illustration img,
+.uxui .uxui img,
+.webdesign .webdesign img,
+.motiongraphics .motiongraphics img,
+.photography .photography img,
+.print .print img {
+  filter: contrast(1);
+}
+
+.all .branding p,
+.all .illustration p,
+.all .uxui p,
+.all .webdesign p,
+.all .motiongraphics p,
+.all .photography p,
+.all .print p,
+.branding .branding p,
+.illustration .illustration p,
+.uxui .uxui p,
+.webdesign .webdesign p,
+.motiongraphics .motiongraphics p,
+.photography .photography p,
+.print .print p {
+  color: var(--color-tertiary);
 }
 
 .products select,
