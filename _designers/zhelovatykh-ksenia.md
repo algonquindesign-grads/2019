@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/ksnz.ca/
 linkedin-link:
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "07"
 
 image:
   - image-1.jpg

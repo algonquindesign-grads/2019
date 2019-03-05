@@ -17,7 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/jennifer-sommerfeld-b32564130
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "06"
 
 
 video:

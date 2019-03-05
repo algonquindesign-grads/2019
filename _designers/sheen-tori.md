@@ -16,7 +16,7 @@ instagram-link: https://www.instagram.com/-planetorium/
 linkedin-link:
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "05"
 
 image:
   - image-1.jpg

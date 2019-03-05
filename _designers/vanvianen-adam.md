@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/adamvanvianendesigns/
 linkedin-link: https://www.linkedin.com/in/adam-van-vianen-084059176/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "04"
 
 
 video:

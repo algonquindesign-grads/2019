@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/fm.photography-design/?hl=en
 linkedin-link: https://www.linkedin.com/in/françois-mittins-bb916b129/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "04"
 
 video:
   - 315953483

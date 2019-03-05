@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/olivialynnbarton/
 linkedin-link:
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "06"
 
 image:
   - image-1.jpg

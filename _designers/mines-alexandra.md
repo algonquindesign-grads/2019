@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/alexmines/
 linkedin-link: https://www.linkedin.com/in/alexandra-mines-50b336179/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "02"
 
 image:
   - image-1.jpg

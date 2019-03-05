@@ -17,7 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/tanya-andrews-95a569130/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "03"
 
 video:
   - 263211043

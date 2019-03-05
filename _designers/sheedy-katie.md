@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/sheedy.katie/
 linkedin-link: https://www.linkedin.com/in/katie-sheedy/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "04"
 
 video:
   - 306409554

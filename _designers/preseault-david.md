@@ -17,7 +17,7 @@ instagram-link:
 linkedin-link:
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "07"
 
 video:
   - 302878626

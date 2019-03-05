@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/estherjdesign/
 linkedin-link:
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "03"
 
 video:
   - 315170734

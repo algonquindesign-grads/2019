@@ -17,7 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/catherine-legault-533b95111/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "06"
 
 video:
   - 312731335

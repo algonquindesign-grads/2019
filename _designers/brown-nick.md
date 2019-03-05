@@ -17,7 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/nick-brown-66028b146/
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "02"
 
 video:
   - 303958132

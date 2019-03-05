@@ -17,7 +17,7 @@ instagram-link: https://www.instagram.com/glenis.elbeyrouti/
 linkedin-link:
 github-link:
 dribbble-link:
-triangle: "01"
+triangle: "06"
 
 video:
   - 316698504
