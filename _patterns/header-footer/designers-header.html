@@ -1,14 +1,14 @@
 <header class="grid grid-middle gutter pad-t pad-b">
   <div class="unit xs-1 s-1 m-1 l-1-2 pad-t-1-2 nav-logo">
     <a class="push" href="/index" aria-label="PathFinder Logo">
-      <img width="200px" class="" src="/images/pathfinder-logo-white.svg" alt="">
+      <img itemprop="image" width="200px" class="img-flex" src="/images/pathfinder-logo-white.svg" alt="">
     </a>
   </div>
   <div class="unit xs-1 s-1 m-1 l-1-2 nav-items">
-    <ul class="list-group-inline push-0 pad-t-1-2 pad-b-1-2">
-      <li><a class="gutter-1-2 pad-b-1-2 pad-t-1-2 milli" href="{% if page.url == '/designers/zhelovatykh-ksenia/' %}{{site.baseurl}}/designers/absullah-fakeha/{% else %}{{site.baseurl}}{{page.previous.url}}{% endif %}">Prev</a></li>
-      <li><a class="gutter-1-2 pad-b-1-2 pad-t-1-2 milli" href="/designers">Designers</a></li>
-      <li><a class="gutter-1-2 pad-b-1-2 pad-t-1-2 milli" href="{% if page.url == '/designers/zhelovatykh-ksenia/' %}{{site.baseurl}}/designers/absullah-fakeha/{% else %}{{site.baseurl}}{{page.next.url}}{% endif %}">Next</a></li>
+    <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-0 pad-t-1-2 pad-b-1-2">
+      <li><a aria-label="Previous designer" itemprop="Url" class="gutter-1-2 pad-b-1-2 pad-t-1-2 milli" href="{% if page.url == '/designers/zhelovatykh-ksenia/' %}{{site.baseurl}}/designers/abdullah-fakeha/{% else %}{{site.baseurl}}{{page.previous.url}}{% endif %}">Prev</a></li>
+      <li><a aria-label="Main designers page" itemprop="Url" class="gutter-1-2 pad-b-1-2 pad-t-1-2 milli" href="/designers">Designers</a></li>
+      <li><a aria-label="Next designer" itemprop="Url" class="gutter-1-2 pad-b-1-2 pad-t-1-2 milli" href="{% if page.url == '/designers/zhelovatykh-ksenia/' %}{{site.baseurl}}/designers/abdullah-fakeha/{% else %}{{site.baseurl}}{{page.next.url}}{% endif %}">Next</a></li>
     </ul>
   </div>
 </header>
