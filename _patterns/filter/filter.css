@@ -1,3 +1,7 @@
+#designer-list .unit {
+  display: flex;
+}
+
 .selector {
   transition: color .25s;
   color: #fff;
