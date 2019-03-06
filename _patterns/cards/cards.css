@@ -7,7 +7,6 @@
   width: 100%;
   background-color: var(--color-accent-dark);
   color: var(--color-tertiary);
-  /* transform: translate(-50%, 25%); */
 }
 
 .embed-5by4, .embed--5by4 {
@@ -16,8 +15,10 @@
 
 .designer-triangle {
   transform: rotate(0deg);
+  transition: transform .25s;
 }
 
-.designer-card:hover .designer-triangle {
+.designer-card:hover .designer-triangle,
+.designer-card:focus .designer-triangle {
   transform: rotate(-15deg);
 }
