@@ -6,7 +6,7 @@ first-name: tanya
 specialization: Branding, Motion Graphics, Illustration
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - illustration
 email: hello@tanyadesigns.ca
 website: http://tanyadesigns.ca/
@@ -17,7 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/tanya-andrews-95a569130/
 github-link:
 dribbble-link:
-
+triangle: "03"
 
 video:
   - 263211043

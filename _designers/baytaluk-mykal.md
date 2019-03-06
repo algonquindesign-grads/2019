@@ -16,6 +16,7 @@ instagram-link: https://www.instagram.com/mykal.co/
 linkedin-link: https://www.linkedin.com/in/mykalbaytaluk/
 github-link:
 dribbble-link:
+triangle: "07"
 
 video:
   - 316133138

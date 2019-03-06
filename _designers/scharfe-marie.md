@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/mariescharfe/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "03"
 
 video:
   - 242988217

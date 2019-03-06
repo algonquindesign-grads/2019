@@ -15,6 +15,7 @@ instagram-link: https://www.instagram.com/petraeeghen/
 linkedin-link: https://www.linkedin.com/in/petra-v-950319101/
 github-link:
 dribbble-link:
+triangle: "03"
 
 video:
   - 316475857

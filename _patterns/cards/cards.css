@@ -2,17 +2,22 @@
   position: relative;
 }
 
-.designer-triangle path {
-  stroke: var(--color-tertiary);
-}
 .nametag {
   font-family: var(--font-primary);
   width: 100%;
-  height: 18%;
   background-color: var(--color-accent-dark);
   color: var(--color-tertiary);
+  /* transform: translate(-50%, 25%); */
 }
 
 .embed-5by4, .embed--5by4 {
   padding-top: 80%;
+}
+
+.designer-triangle {
+  transform: rotate(0deg);
+}
+
+.designer-card:hover .designer-triangle {
+  transform: rotate(-15deg);
 }

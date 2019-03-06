@@ -16,6 +16,7 @@ instagram-link: https://www.instagram.com/skardish_design/
 linkedin-link: https://www.linkedin.com/in/sydney-kardish
 github-link:
 dribbble-link:
+triangle: "04"
 
 video:
   - 315810506

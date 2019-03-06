@@ -1,12 +1,14 @@
-$('.selector').on('click', function() {
+$('.selector').on('click', function (e) {
+  e.preventDefault();
   var catSelect = $(this).attr('id');
-
-  $('#designer-list').removeClass('category-all');
-  $('#designer-list').removeClass('category-branding');
-  $('#designer-list').removeClass('category-illustration');
-  $('#designer-list').removeClass('category-uiux');
-  $('#designer-list').removeClass('category-web');
-  $('#designer-list').removeClass('category-motion');
-  $('#designer-list').removeClass('category-photography');
-  $('#designer-list').addClass(catSelect);
+  console.log(catSelect);
+  $('#designer-list').removeClass('all');
+  $('#designer-list').removeClass('branding');
+  $('#designer-list').removeClass('illustration');
+  $('#designer-list').removeClass('uxui');
+  $('#designer-list').removeClass('webdesign');
+  $('#designer-list').removeClass('motiongraphics');
+  $('#designer-list').removeClass('photography');
+  $('#designer-list').removeClass('print');
+  $('#designer-list').addClass(catSelect);uxui
 });
