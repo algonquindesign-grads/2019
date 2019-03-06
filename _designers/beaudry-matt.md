@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/mattibdry/
 linkedin-link: https://www.linkedin.com/in/matt-beaudry-042181106/
 github-link: https://github.com/mattibdry
 dribbble-link:
+triangle: "01"
 
 video:
   - 316467266

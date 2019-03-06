@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/shrinidhisridhar/?hl=en
 linkedin-link: https://www.linkedin.com/in/shrinidhi-sridhar-8a9890a1/
 github-link: https://github.com/SridharShrinidhi
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

@@ -6,7 +6,7 @@ first-name: ksenia
 specialization: Branding, Motion Graphics, Typography
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - typography
 email: design@ksnz.ca
 website: http://ksnz.ca
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/ksnz.ca/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "07"
 
 image:
   - image-1.jpg

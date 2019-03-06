@@ -5,7 +5,7 @@ last-name: woonjeong
 first-name: sung
 specialization: Motion Graphics, Illustration
 specialty:
-  - motion graphics
+  - motiongraphics
   - illustration
 email: jswoon12@gmail.com
 website: http://jeongsw.ca/
@@ -16,6 +16,7 @@ instagram-link:
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "05"
 
 video:
   - 316337555

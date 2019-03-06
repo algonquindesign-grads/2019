@@ -6,7 +6,7 @@ first-name: nick
 specialization: UX/UI, Motion Graphics, Illustration
 specialty:
   - uxui
-  - motion graphics
+  - motiongraphics
   - illustration
 email: nicktgbrown@gmail.com
 website: nickbrowndesign.ca
@@ -17,6 +17,7 @@ instagram-link:
 linkedin-link: https://www.linkedin.com/in/nick-brown-66028b146/
 github-link:
 dribbble-link:
+triangle: "02"
 
 video:
   - 303958132

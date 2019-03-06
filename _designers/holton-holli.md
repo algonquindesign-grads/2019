@@ -17,6 +17,7 @@ instagram-link: instagram.com/holli.design
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 312534833

@@ -6,7 +6,7 @@ first-name: scott
 specialization: Branding, Motion Graphics, Illustration
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - illustration
 email: smartelwow@gmail.com
 website: https://smarteldesign.myportfolio.com/
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/scott.martel/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 image:
   - image-1.jpg

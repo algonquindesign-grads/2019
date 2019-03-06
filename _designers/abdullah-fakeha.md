@@ -6,7 +6,7 @@ first-name: fakeha
 specialization: Branding, Motion Graphics, Print
 specialty:
   - branding
-  - motion graphics
+  - motiongraphics
   - print
 email: fakeharafat@gmail.com
 website: https://fakehaabdullah.design/home
@@ -17,6 +17,7 @@ instagram-link: https://www.instagram.com/fakeha-abdullah/
 linkedin-link:
 github-link:
 dribbble-link:
+triangle: "01"
 
 video:
   - 316439768
