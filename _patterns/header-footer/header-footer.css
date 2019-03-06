@@ -1,6 +1,7 @@
 header {
-  background-color: var(--color-tertiary);
+  background-color: transparent;
 }
+
 
 footer {
   background-color: var(--color-accent-dark);
