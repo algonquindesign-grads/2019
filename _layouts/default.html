@@ -3,18 +3,24 @@
 <head>
   <meta charset="utf-8">
   <title>{{page.title}}</title>
+  <meta name="description" content="{{page.meta}}">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="/css/main.css" rel="stylesheet">
 </head>
 <body>
 
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#navigation">Jump to navigation</a></li>
+  </ul>
   <!-- Header -->
   {% if page.url contains "index" or page.url contains "thank-you" or page.url == "/" %}
     {% pattern header-footer/header %}
   {% else %}
     {% pattern header-footer/designers-header %}
   {% endif %}
-  <main class="main-gradient-background">
+  <!-- Main -->
+  <main role="main" id="main" class="main-gradient-background" tabindex="0">
     {{content}}
   </main>
   <!-- Footer -->

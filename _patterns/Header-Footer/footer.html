@@ -1,17 +1,27 @@
-<footer class="pad-t-2">
+<footer role="contentinfo" itemscope itemtype="http://schema.org/WPFooter" class="pad-t-2">
   <div class="text-center push-1-2 pad-t-2">
-    <img width="100px" src="/images/pf-logo-symbol.svg" alt="PathFinder Symbol">
+    <a href="/index">
+      <img itemprop="image" width="100px" src="/images/pf-logo-symbol.svg" alt="PathFinder Symbol">
+    </a>
   </div>
   <div class="text-center push-2 pad-b-2 social-links">
-    <ul class="list-group-inline push-0">
+    <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-0">
       <li class="gutter-1-4">
-        <a href="#">
-          <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
+        <a aria-label="Facebook page for PathFinder" itemprop="Url" href="#">
+          <i class="icon i-48">
+            <svg>
+              <use xlink:href="/images/icons.svg#instagram-logo"></use>
+            </svg>
+          </i>
         </a>
       </li>
       <li class="gutter-1-4">
-        <a class="icon i-48" href="#">
-          <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
+        <a aria-label="Instagram page for PathFinder" itemprop="Url" class="icon i-48" href="https://www.instagram.com/algonquindesign/?hl=en">
+          <i class="icon i-48">
+            <svg>
+              <use xlink:href="/images/icons.svg#instagram-logo"></use>
+            </svg>
+          </i>
         </a>
       </li>
     </ul>
