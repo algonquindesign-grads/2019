@@ -35,12 +35,16 @@
   /* Katie write here: unselected category's css goes here */
 }
 
+.product-sort .designer-card img {
+  filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+}
+
 .designer-card .nametag {
   color: var(--color-accent-dark);
 }
 
-.product-sort .designer-card img {
-  filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+.disabled {
+  pointer-events: none;
 }
 
 .all .branding,

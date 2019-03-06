@@ -10,5 +10,5 @@ $('.selector').on('click', function (e) {
   $('#designer-list').removeClass('motiongraphics');
   $('#designer-list').removeClass('photography');
   $('#designer-list').removeClass('print');
-  $('#designer-list').addClass(catSelect);uxui
+  $('#designer-list').addClass(catSelect);
 });
