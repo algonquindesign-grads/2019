@@ -14,9 +14,9 @@
     <li><a href="#navigation">Jump to navigation</a></li>
   </ul>
   <!-- Header -->
-  {% if page.url contains "index" or page.url contains "thank-you" or page.url == "/" %}
+  {% if page.url contains "index" or page.url contains "thank-you" or page.url contains "designers" or page.url == "/" %}
     {% pattern header-footer/header %}
-  {% else %}
+  {% elsif page.url contains designers/{{designers.last-name}}-{{designers.first-name}} %}
     {% pattern header-footer/designers-header %}
   {% endif %}
   <!-- Main -->
