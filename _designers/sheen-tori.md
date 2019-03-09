@@ -1,5 +1,5 @@
 ---
-layout: designer-profile-3by2images
+layout: designer-profile-landscapeimages
 name: Tori Sheen
 last-name: sheen
 first-name: tori
@@ -19,6 +19,6 @@ dribbble-link:
 triangle: "05"
 
 image:
-  - image-1.jpg
-  - image-2.jpg
+  - image-1.png
+  - image-3.png
 ---

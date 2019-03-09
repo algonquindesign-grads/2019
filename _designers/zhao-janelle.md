@@ -20,7 +20,7 @@ dribbble-link:
 triangle: "06"
 
 image:
-  - image-1.jpg
+  - image-1.png
   - image-2.jpg
   - image-3.jpg
   - image-4.jpg
