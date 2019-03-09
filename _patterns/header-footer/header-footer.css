@@ -2,7 +2,6 @@ header {
   background-color: transparent;
 }
 
-
 footer {
   background-color: var(--color-accent-dark);
 }
@@ -42,8 +41,11 @@ footer .icon img, .icon svg:hover{
 
 /*|TO CHANGE TO :ACTIVE|*/
 header .nav-items ul li a:active,
-header .nav-items ul li a:hover {
-  background-image: linear-gradient(var(--color-primary),var(--color-accent-dark));
+header .nav-items ul li a:hover,
+.current {
+  /* background-image: linear-gradient(var(--color-primary),var(--color-accent-dark)); */
+  color: var(--color-accent-dark);
+  border-bottom: 3px solid var(--color-accent-dark);
 }
 
 @media only screen and (min-width: 60em) {
