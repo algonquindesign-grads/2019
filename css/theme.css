@@ -38,7 +38,7 @@ body {
 h1,
 .secondary-font {
   font-family: var(--font-secondary);
-  text-shadow: 8px 2px 1px var(--color-highlight-secondary);
+  text-shadow: 5px 2px 1px var(--color-highlight-secondary);
   text-transform: uppercase;
 }
 
@@ -48,7 +48,7 @@ h4,
 h5,
 h6,
 p {
-  font-family: var(--font-primary)
+  font-family: var(--font-primary);
 }
 
 .highlight-text {
@@ -58,7 +58,7 @@ p {
 
 .secondary-font {
   text-transform: uppercase;
-  text-shadow: 4px 2px 1px var(--color-highlight-secondary);
+  text-shadow: 3px 2px 1px var(--color-highlight-secondary);
 }
 
 .upper {
@@ -67,13 +67,16 @@ p {
 
 .stripes {
   /* background: repeating-linear-gradient(to bottom, rgba(51, 9, 65, 0.6), rgba(51, 9, 65, 0.6), rgba(51, 9, 65, .2) 10px, rgba(51, 9, 65, .2) 15px); */
-  /* background: repeating-linear-gradient(to bottom, rgba(33, 6, 42, 0.6), rgba(33, 6, 42, 0.6) 5px, rgba(33, 6, 42, 0.2) 5px, rgba(33, 6, 42, 0.2) 10px); */
   background: repeating-linear-gradient(to bottom, rgba(104, 25, 130, 0.6), rgba(104, 25, 130, 0.6) 5px, rgba(104, 25, 130, 0.2) 5px, rgba(104, 25, 130, 0.2) 10px);
+}
+
+.stripes-1 {
+   background: repeating-linear-gradient(to bottom, rgba(33, 6, 42, 0.6), rgba(33, 6, 42, 0.6) 5px, rgba(33, 6, 42, 0.2) 5px, rgba(33, 6, 42, 0.2) 10px);
 }
 
 .bg-image {
   background-image: url("/images/palm-trees-1.svg");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
@@ -83,4 +86,33 @@ p {
 
 .designers-page {
   padding-top: 5em;
+}
+
+.color-primary {
+  color: var(--color-primary);
+}
+
+.color-secondary {
+  color: var(--color-secondary);
+}
+
+.color-tertiary {
+  color: var(--color-tertiary);
+}
+
+.font-primary {
+  font-family: var(--font-primary);
+}
+
+.filter {
+  filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+}
+
+::selection {
+  color: var(--color-accent-dark);
+  background: var(--color-highlight-secondary);
+}
+
+.date:hover {
+
 }
