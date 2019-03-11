@@ -21,3 +21,29 @@
 .designer-card:hover .designer-triangle {
   transform: rotate(-15deg);
 }
+
+.triangle-no-hover {
+  z-index: 0;
+  top: 1.69em;
+}
+
+.designer-portrait {
+  position: absolute;
+  bottom: 20em;
+  border-bottom: 10px solid var(--color-tertiary);
+}
+
+.designer-card-without-name {
+  position: relative;
+  top: 2em;
+}
+
+
+.border-bottom {
+  position: absolute;
+  bottom: 0em;
+  left: 0;
+  border-bottom: 6px solid var(--color-secondary);
+  border-right: 6px solid var(--color-secondary);
+  width: 99%;
+}
