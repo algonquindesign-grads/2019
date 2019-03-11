@@ -76,3 +76,11 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.main-page {
+  padding-top: 3em;
+}
+
+.designers-page {
+  padding-top: 5em;
+}
