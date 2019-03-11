@@ -1,22 +1,29 @@
 <div class="island">
-  <h1 class="push-1-4 yotta">{{page.name}}</h1>
+  <h1 class="push-1-4 exa">{{page.name}}</h1>
 
   <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-1-2">
-    <li class="list-group-item pad-b-1-2"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[0] | upcase | default: 'Branding'}}</p></li>
-    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[1] | upcase | default: 'Illustration'}}</p></li>
-    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[2] | upcase | default: 'Motion Graphics'}}</p></li>
+    {% if page.specialty[0] %}
+      <li class="list-group-item pad-b-1-2"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[0] | replace: 'motiongraphics', 'motion graphics' | replace: 'webdesign', 'web design' | replace: 'uxui', 'ux/ui' | upcase | default: 'Branding'}}</p></li>
+    {% endif %}
+    {% if page.specialty[1] %}
+      <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[1] | replace: 'motiongraphics', 'motion graphics' | replace: 'webdesign', 'web design' | replace: 'uxui', 'ux/ui' | upcase | default: 'Illustration'}}</p></li>
+    {% endif %}
+    {% if page.specialty[2] %}
+      <li class="list-group-item pad-b-1-2"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[2] | replace: 'motiongraphics', 'motion graphics' | replace: 'webdesign', 'web design' | replace: 'uxui', 'ux/ui' | upcase | default: 'Motion Graphics'}}</p></li>
+    {% endif %}
   </ul>
 
-  <p class="push">{{page.bio}}</p>
+  <p class="push milli">{{page.bio}}</p>
 
-  <div class="push-1-4">
-    <a aria-label="Website link" class="designer-links bold" href="{{page.website}}">Website</a>
+  <div class="grid">
+    <div class="unit xs-1-2 s-1-2 m-1-2 l-1 push-1-4">
+      <a aria-label="Website link" class="designer-links bold" href="{{page.website}}">www</a>
+    </div>
+
+    <div class="unit xs-1-2 s-1-2 m-1-2 l-1">
+      <a aria-label="Email" class="designer-links bold" href="mailto:{{page.email}}">mailto</a>
+    </div>
   </div>
-
-  <div class="{{page.email}}">
-    <a aria-label="Email" class="designer-links bold" href="#">Email</a>
-  </div>
-
 
   <div class="pad-b pad-t">
     <ul class="list-group-inline push-0">
@@ -37,7 +44,7 @@
       {% if page.instagram-link %}
         <li>
           <a aria-label="Link to Instagram" href="{{page.instagram-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
+            <i class="icon i-32 gutter"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
           </a>
         </li>
       {% endif %}
