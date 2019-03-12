@@ -2,6 +2,6 @@
 layout: designers-layout
 name: Figure 01
 last-name: statue
-first-name: 2
+first-name: 3
 triangle: "02"
 ---
