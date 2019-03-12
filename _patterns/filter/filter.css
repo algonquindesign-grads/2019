@@ -36,8 +36,17 @@
   /* Katie write here: unselected category's css goes here */
 }
 
+.placeholder-statue {
+  filter: blur(0px);
+  pointer-events: none;
+}
+
 .product-sort .designer-card img {
   filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+}
+
+.product-sort .designer-card .statue-img {
+  filter: contrast(100%) hue-rotate(0deg) saturate(100%) grayscale(0);
 }
 
 .designer-card .nametag {
