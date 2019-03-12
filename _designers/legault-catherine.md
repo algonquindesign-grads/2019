@@ -23,7 +23,7 @@ video:
   - 312731335
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-3.png
+  - image-4.png
 
 ---

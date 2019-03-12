@@ -21,6 +21,6 @@ triangle: "05"
 video:
   - 316337555
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 ---
