@@ -32,6 +32,7 @@
   transition:
     filter .25s,
     transform .25s;
+  pointer-events: none;
   /* Katie write here: unselected category's css goes here */
 }
 
@@ -63,6 +64,7 @@
 .print .print {
   filter: blur(0);
   transform: skew(0) rotate(0);
+  pointer-events: auto;
   /* selected styling goes here */
 }
 
