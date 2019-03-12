@@ -1,5 +1,5 @@
 ---
-layout:
+layout: designer-profile-videobyimages
 name: Marie Scharfe
 last-name: scharfe
 first-name: marie
@@ -22,7 +22,7 @@ triangle: "03"
 video:
   - 242988217
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---

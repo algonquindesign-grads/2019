@@ -22,7 +22,7 @@ video:
   - 316461019
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.jpg
+  - image-2.jpg
 
 ---

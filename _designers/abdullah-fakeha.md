@@ -22,7 +22,7 @@ triangle: "01"
 video:
   - 316439768
 
-images:
+image:
   - image-1.jpg
   - image-2.jpg
 ---

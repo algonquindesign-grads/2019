@@ -1,10 +1,10 @@
-<div class="island-2">
-  <h1 class="push-1-4 zetta">{{page.name}}</h1>
+<div class="island">
+  <h1 class="push-1-4 yotta">{{page.name}}</h1>
 
-  <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-2">
-    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 micro">{{page.specialty[0] | upcase | default: 'Branding'}}</p></li>
-    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 micro">{{page.specialty[1] | upcase | default: 'Illustration'}}</p></li>
-    <li class="list-group-item gutter-1-4 pad-b-1-2"><p class="designer-picks push-0 island-1-4 micro">{{page.specialty[2] | upcase | default: 'Motion Graphics'}}</p></li>
+  <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-1-2">
+    <li class="list-group-item pad-b-1-4"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[0] | upcase | default: 'Branding'}}</p></li>
+    <li class="list-group-item gutter-1-4 pad-b-1-4"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[1] | upcase | default: 'Illustration'}}</p></li>
+    <li class="list-group-item gutter-1-4 pad-b-1-4"><p class="designer-picks push-0 island-1-4 nano">{{page.specialty[2] | upcase | default: 'Motion Graphics'}}</p></li>
   </ul>
 
   <p class="push">{{page.bio}}</p>
@@ -23,42 +23,42 @@
       {% if page.behance-link %}
         <li>
           <a aria-label="Link to Behance" href="{{page.behance-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#behance-logo"></use></svg></i>
+            <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#behance-logo"></use></svg></i>
           </a>
         </li>
       {% endif %}
       {% if page.vimeo-link %}
         <li>
           <a aria-label="Link to Vimeo" href="{{page.vimeo-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#vimeo-logo"></use></svg></i>
+            <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#vimeo-logo"></use></svg></i>
           </a>
         </li>
         {% endif %}
       {% if page.instagram-link %}
         <li>
           <a aria-label="Link to Instagram" href="{{page.instagram-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
+            <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#instagram-logo"></use></svg></i>
           </a>
         </li>
       {% endif %}
       {% if page.linkedin-link %}
         <li>
           <a aria-label="Link to Linkedin" href="{{page.linkedin-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#linkedin-logo"></use></svg></i>
+            <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#linkedin-logo"></use></svg></i>
           </a>
         </li>
       {% endif %}
       {% if page.github-link %}
         <li>
           <a aria-label="Link to Github" href="{{page.github-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#github-logo"></use></svg></i>
+            <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#github-logo"></use></svg></i>
           </a>
         </li>
       {% endif %}
       {% if page.dribbble-link %}
         <li>
           <a aria-label="Link to Dribbble" href="{{page.dribbble-link}}">
-            <i class="icon i-48"><svg><use xlink:href="/images/icons.svg#dribbble-logo"></use></svg></i>
+            <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#dribbble-logo"></use></svg></i>
           </a>
         </li>
       {% endif %}
