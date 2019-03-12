@@ -1,3 +1,7 @@
+#designer-list .unit {
+  display: flex;
+}
+
 .selector {
   transition: color .25s;
   color: #fff;
@@ -28,15 +32,29 @@
   transition:
     filter .25s,
     transform .25s;
+  pointer-events: none;
   /* Katie write here: unselected category's css goes here */
+}
+
+.placeholder-statue {
+  filter: blur(0px);
+  pointer-events: none;
+}
+
+.product-sort .designer-card img {
+  filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+}
+
+.product-sort .designer-card .statue-img {
+  filter: contrast(100%) hue-rotate(0deg) saturate(100%) grayscale(0);
 }
 
 .designer-card .nametag {
   color: var(--color-accent-dark);
 }
 
-.product-sort .designer-card img {
-  filter: contrast(1000%) hue-rotate(269deg) saturate(69) grayscale(.5);
+.disabled {
+  pointer-events: none;
 }
 
 .all .branding,
@@ -55,6 +73,7 @@
 .print .print {
   filter: blur(0);
   transform: skew(0) rotate(0);
+  pointer-events: auto;
   /* selected styling goes here */
 }
 

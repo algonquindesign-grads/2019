@@ -7,7 +7,6 @@
   width: 100%;
   background-color: var(--color-accent-dark);
   color: var(--color-tertiary);
-  /* transform: translate(-50%, 25%); */
 }
 
 .embed-5by4, .embed--5by4 {
@@ -16,8 +15,36 @@
 
 .designer-triangle {
   transform: rotate(0deg);
+  transition: transform .25s;
 }
 
-.designer-card:hover .designer-triangle {
+.all .branding.designer-card:hover .designer-triangle,
+.all .illustration.designer-card:hover .designer-triangle,
+.all .uxui.designer-card:hover .designer-triangle,
+.all .webdesign.designer-card:hover .designer-triangle,
+.all .motiongraphics.designer-card:hover .designer-triangle,
+.all .photography.designer-card:hover .designer-triangle,
+.all .print.designer-card:hover .designer-triangle,
+.branding .branding.designer-card:hover .designer-triangle,
+.illustration .illustration.designer-card:hover .designer-triangle,
+.uxui .uxui.designer-card:hover .designer-triangle,
+.webdesign .webdesign.designer-card:hover .designer-triangle,
+.motiongraphics .motiongraphics.designer-card:hover .designer-triangle,
+.photography .photography.designer-card:hover .designer-triangle,
+.print .print.designer-card:hover .designer-triangle,
+.all .branding.designer-card:focus.designer-triangle,
+.all .illustration.designer-card:focus.designer-triangle,
+.all .uxui.designer-card:focus.designer-triangle,
+.all .webdesign.designer-card:focus.designer-triangle,
+.all .motiongraphics.designer-card:focus.designer-triangle,
+.all .photography.designer-card:focus.designer-triangle,
+.all .print.designer-card:focus.designer-triangle,
+.branding .branding.designer-card:focus.designer-triangle,
+.illustration .illustration.designer-card:focus.designer-triangle,
+.uxui .uxui.designer-card:focus.designer-triangle,
+.webdesign .webdesign.designer-card:focus.designer-triangle,
+.motiongraphics .motiongraphics.designer-card:focus.designer-triangle,
+.photography .photography.designer-card:focus.designer-triangle,
+.print .print.designer-card:focus.designer-triangle {
   transform: rotate(-15deg);
 }
