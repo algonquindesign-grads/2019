@@ -1,14 +1,13 @@
 header {
-  background-color: transparent;
+  background-color: var(--color-tertiary);
 }
-
-
+/* #f64a72 */
 footer {
   background-color: var(--color-accent-dark);
 }
 
 header .nav-items ul li a {
-  color: var(--color-white);
+  color: var(--color-accent-dark);
   text-decoration: none;
   font-family: var(--font-primary);
 }
@@ -43,7 +42,8 @@ footer .icon img, .icon svg:hover{
 /*|TO CHANGE TO :ACTIVE|*/
 header .nav-items ul li a:active,
 header .nav-items ul li a:hover {
-  background-image: linear-gradient(var(--color-primary),var(--color-accent-dark));
+  color: var(--color-white);
+  border-bottom: 2px solid var(--color-white);
 }
 
 @media only screen and (min-width: 60em) {

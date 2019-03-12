@@ -23,7 +23,7 @@ video:
   - 315953483
 
 image:
-  - image-3.jpg
-  - image-4.jpg
+  - image-1.svg
+  - image-2.jpg
 
 ---
