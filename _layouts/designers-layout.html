@@ -11,12 +11,10 @@
 
   <ul class="skip-links">
     <li><a href="#main">Jump to main content</a></li>
-    <li><a href="#nav">Jump to navigation</a></li>
+    <li><a href="#navigation">Jump to navigation</a></li>
   </ul>
   <!-- Header -->
-  {% if page.url contains "index" or page.url contains "thank-you" or page.url contains "designers" or page.url == "/" or page.url contains "404" %}
-    {% pattern header-footer/header %}
-  {% endif %}
+  {% pattern header-footer/designers-header %}
   <!-- Main -->
   <main role="main" id="main" class="main-gradient-background pad-t-2" tabindex="0">
     {{content}}
