@@ -26,7 +26,7 @@ body {
 h1,
 .secondary-font {
   font-family: var(--font-secondary);
-  text-shadow: 8px 2px 1px var(--color-highlight-secondary);
+  text-shadow: 2px 2px 1px var(--color-highlight-secondary);
   text-transform: uppercase;
 }
 
@@ -63,10 +63,6 @@ p {
   padding-top: 3em;
 }
 
-.designers-page {
-  padding-top: 5em;
-}
-
 .video-embed {
   min-height: 100%;
   left: 0;
@@ -81,4 +77,31 @@ p {
 .filter {
   /* filter: contrast(1000%) hue-rotate(269deg) saturate(59) grayscale(.5) blur(1px); */
   filter: hue-rotate(193deg) invert(100%) saturate(10);
+}
+
+.neon-pink {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 40px var(--color-tertiary);
+  border-bottom: 2px solid var(--color-tertiary);
+  width: 10%;
+}
+
+.neon-yellow {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 40px var(--color-secondary);
+  border-bottom: 2px solid var(--color-secondary);
+  width: 10%;
+}
+
+.neon-pink-home {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 40px var(--color-tertiary),
+    0 0 80px var(--color-tertiary),
+    0 0 80px var(--color-tertiary);
 }
