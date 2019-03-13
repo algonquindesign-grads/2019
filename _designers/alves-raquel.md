@@ -15,7 +15,7 @@ behance-link: https://www.behance.net/alve002635ca
 vimeo-link:
 instagram-link:
 linkedin-link: https://www.linkedin.com/in/raquel-alves-a-f/
-github-link:  https://github.com/RaquelAlves01s
+github-link:  https://github.com/RaquelAlves01
 dribbble-link:
 triangle: "02"
 

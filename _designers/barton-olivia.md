@@ -9,7 +9,7 @@ specialty:
   - print
   - photgraphy
 email: olivialynnbarton@outlook.com
-website: olivialynndesign.ca
+website: http://olivialynndesign.ca
 bio:  Designer with an eye for detail and a minimalist style. I love seeing the difference great design can make.
 behance-link:
 vimeo-link:

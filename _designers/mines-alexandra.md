@@ -9,7 +9,7 @@ specialty:
   - illustration
   - print
 email: alexminesdesign@gmail.com
-website: alexmines.com
+website: http://alexmines.com
 bio: That laughing you hear from down the hall...ya that's probably me.
 behance-link: https://www.behance.net/mine0051cb84
 vimeo-link:

@@ -9,7 +9,7 @@ specialty:
   - illustration
   - print
 email: evhopky@gmail.com
-website: evhopky.ca
+website: http://evhopky.ca
 bio: I am passionate about typography, layout and correcting anyone when they say font but mean typeface.
 behance-link:
 vimeo-link:

@@ -9,7 +9,7 @@ specialty:
   - vfx
   - videography
 email: petraeeghen@gmail.com
-website: artep.ca
+website: http://artep.ca
 bio: I like eating fruit & nut mix and making music videos.
 behance-link:
 vimeo-link: https://vimeo.com/petraeeghen

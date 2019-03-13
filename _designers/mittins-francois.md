@@ -9,7 +9,7 @@ specialty:
   - print
   - photography
 email: francoismittins@gmail.com
-website: francoismittins.ca
+website: http://francoismittins.ca
 bio: Hi, I’m Frank. Fuelled by coffee & passion. I think meeting someone with the same mindset is rare to come by, but hey prove me wrong over a cup of joe.
 behance-link:
 vimeo-link:

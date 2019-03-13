@@ -9,7 +9,7 @@ specialty:
   - uxui
   - illustration
 email: hello@mariescharfe.ca
-website: mariescharfe.ca
+website: http://mariescharfe.ca
 bio: Hello there! I'm Marie; Branding and UI/UX design are my thing. I'm influenced by art, culture, music, and fashion. I love a good laugh and I also enjoy Thrills—yeah, the soap gum.
 behance-link:
 vimeo-link:
