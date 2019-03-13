@@ -3,9 +3,8 @@
   border: 2px solid var(--color-white);
 }
 
-
 .designer-links {
-  color: var(--color-accent-dark);
+  color: var(--color-white);
 }
 
 .designer-links:hover {
@@ -15,4 +14,20 @@
 a {
   text-decoration: none;
   font-family: var(--font-primary);
+}
+
+main .icon svg {
+  fill: var(--color-white);
+}
+
+@media only screen and (min-width: 38em) {
+
+  .designer-links {
+      color: var(--color-accent-dark);
+  }
+
+  main .icon svg {
+    fill: var(--color-accent-dark);
+  }
+
 }
