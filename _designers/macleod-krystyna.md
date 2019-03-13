@@ -10,7 +10,7 @@ specialty:
   - illustration
 email: hey@krystynamacleod.design
 website: http://krystynamacleod.design/
-bio: I am a Graphic Designer specializing in branding and illustration. I'm not afraid to learn something new to expand my skills.
+bio: "I am a Graphic Designer specializing in branding and illustration. I'm not afraid to learn something new to expand my skills."
 behance-link:
 vimeo-link:
 instagram-link: https://www.instagram.com/krystynamacleod/

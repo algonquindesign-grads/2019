@@ -16,9 +16,6 @@
 }
 
 body {
-  background-image: url('../images/palm-trees.svg');
-  background-size: cover;
-  background-repeat: no-repeat;
   color: var(--color-white);
   min-height: 100vh;
 }
@@ -36,7 +33,7 @@ h4,
 h5,
 h6,
 p {
-  font-family: var(--font-primary)
+  font-family: var(--font-primary);
 }
 
 .highlight-text {
@@ -74,8 +71,23 @@ p {
   color: var(--color-primary);
 }
 
+.color-accent-dark {
+  color: var(--color-accent-dark);
+}
+
+.color-tertiary {
+  color: var(--color-tertiary);
+}
+
+.font-primary {
+  font-family: var(--font-primary);
+}
+
+.color-white {
+  color: var(--color-white);
+}
+
 .filter {
-  /* filter: contrast(1000%) hue-rotate(269deg) saturate(59) grayscale(.5) blur(1px); */
   filter: hue-rotate(193deg) invert(100%) saturate(10);
 }
 
@@ -104,4 +116,25 @@ p {
     0 0 40px var(--color-tertiary),
     0 0 80px var(--color-tertiary),
     0 0 80px var(--color-tertiary);
+}
+
+::selection {
+  color: var(--color-accent-dark);
+  background: var(--color-highlight-secondary);
+}
+
+.icon svg {
+  fill: var(--color-accent-dark);
+}
+
+.icon svg:hover {
+  fill: var(--color-white);
+}
+
+.icon-color svg {
+  fill: var(--color-white);
+}
+
+.icon-color svg:hover {
+  fill: var(--color-tertiary);
 }
