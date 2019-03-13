@@ -9,7 +9,7 @@ specialty:
   - illustration
   - print
 email: hello@holliholton.ca
-website: holliholton.ca
+website: http://holliholton.ca
 bio: I love three things. My dog, design and hot sauce, in that order.
 behance-link:
 vimeo-link:

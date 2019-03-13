@@ -9,7 +9,7 @@ specialty:
   - motiongraphics
   - illustration
 email: dprezoh@gmail.com
-website: preseault.ca
+website: http://preseault.ca
 bio: Hey, I'm Dave! I'm just a quiet boy who loves motion and video editing. Buy Melodrama by Lorde on iTunes!
 behance-link:
 vimeo-link: https://vimeo.com/user72109750

@@ -9,7 +9,7 @@ specialty:
   - motiongraphics
   - illustration
 email: hello@katiesheedy.ca
-website: katiesheedy.ca
+website: http://katiesheedy.ca
 bio: My hands have marker on them. My clothes have paint stains. My ring finger has a callus from pressing too hard with my pen. Creating and drawing is how I learn about and best communicate with the world. Or maybe sarcasm? Sarcasm is a close second.
 behance-link:
 vimeo-link: https://vimeo.com/katiesheedy

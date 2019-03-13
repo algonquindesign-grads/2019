@@ -9,7 +9,7 @@ specialty:
   - uxui
   - illustration
 email: paolinamissio@hotmail.com
-website: paolinamissio.ca
+website: http://paolinamissio.ca
 bio: I'm not good with words, so I let my art speak for me.
 behance-link:
 vimeo-link: https://vimeo.com/user71391240

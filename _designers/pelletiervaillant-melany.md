@@ -9,7 +9,7 @@ specialty:
   - webdesign
   - illustration
 email: melanypvdesigns@gmail.com
-website: melanypv.ca
+website: http://melanypv.ca
 bio: I don't really know what I'm doing, but I do know that I love it.
 behance-link: https://www.behance.net/melanypv
 vimeo-link:

@@ -9,7 +9,7 @@ specialty:
   - uxui
   - webdesign
 email: hi@zhaojanelle.com
-website: zhaojanelle.com
+website: https://zhaojanelle.com
 bio: Interested in identity and interaction design. Inspired by architecture, nature, food, traveling, and working with my hands.
 behance-link:
 vimeo-link: https://vimeo.com/zhaojanelle

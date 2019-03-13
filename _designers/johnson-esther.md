@@ -9,7 +9,7 @@ specialty:
   - illustration
   - print
 email: contact@estherjohnson.ca
-website: estherjohnson.ca
+website: http://estherjohnson.ca
 bio: I've been trying to write this bio for way too long
 behance-link:
 vimeo-link: https://vimeo.com/user70856887

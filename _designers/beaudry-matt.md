@@ -9,7 +9,7 @@ specialty:
   - uxui
   - webdesign
 email: Matt.Beaudry.pe@gmail.com
-website: http://beaudrydesign.ca/
+website: http://everthundermedia.ca/
 bio: Young passionate designer who truly believes in good, eye catching design. Let's sit down. Let me buy you a coffee!
 behance-link:
 vimeo-link:

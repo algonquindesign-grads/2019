@@ -8,7 +8,7 @@ specialty:
   - uxui
   - motion
 email: skardish15@gmail.com
-website: skardish.ca
+website: http://skardish.ca
 bio: Catch me designing cool things, and drinking coffee.
 behance-link:
 vimeo-link: https://vimeo.com/user71391291
