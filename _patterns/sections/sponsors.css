@@ -4,4 +4,5 @@
 
 .sponsors ul li a:hover {
   color: var(--color-tertiary);
+  transition: .25s;
 }
