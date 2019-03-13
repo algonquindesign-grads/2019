@@ -1,4 +1,5 @@
 ---
+title: Sarah Norris • Designer
 layout: designer-profile-videobyimages
 name: Sarah Norris
 last-name: norris

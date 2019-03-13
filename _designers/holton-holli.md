@@ -1,4 +1,5 @@
 ---
+title: Holli Holton • Designer
 layout: designer-profile-videobyimages
 name: Holli Holton
 last-name: holton

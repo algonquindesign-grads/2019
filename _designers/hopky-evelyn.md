@@ -1,4 +1,5 @@
 ---
+title: Evelyn Hopky • Designer
 layout: designer-profile-imagesbyimage
 name: Evelyn Hopky
 last-name: hopky

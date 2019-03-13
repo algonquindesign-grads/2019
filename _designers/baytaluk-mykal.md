@@ -1,4 +1,5 @@
 ---
+title: Mykal Baytaluk • Designer
 layout: designer-profile-videobyimages
 name: Mykal Baytaluk
 last-name: baytaluk

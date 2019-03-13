@@ -1,4 +1,5 @@
 ---
+title: David Preseault • Designer
 layout: designer-profile-allvideos
 name: David Preseault
 last-name: preseault

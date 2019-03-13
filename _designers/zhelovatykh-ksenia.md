@@ -1,4 +1,5 @@
 ---
+title: Ksenia Zhelovatykh • Designer
 layout: designer-profile-allimages
 name: Ksenia Zhelovatykh
 last-name: zhelovatykh

@@ -1,4 +1,5 @@
 ---
+title: Sydney Kardish • Designer
 layout: designer-profile-allvideos
 name: Sydney Kardish
 last-name: kardish

@@ -1,4 +1,5 @@
 ---
+title: Catherine Legault • Designer
 layout: designer-profile-videobyimages
 name: Catherine Legault
 last-name: legault

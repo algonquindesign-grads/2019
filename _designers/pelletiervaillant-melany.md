@@ -1,4 +1,5 @@
 ---
+title: Melany Pelletier-Vaillant • Designer
 layout: designer-profile-allimages
 name: Melany Pelletier-Vaillant
 last-name: pelletiervaillant

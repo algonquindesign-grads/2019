@@ -1,4 +1,5 @@
 ---
+title: Tamara Kazaniwsky • Designer
 layout: designer-profile-videobyimages
 name: Tamara Kazaniwsky
 last-name: kazaniwsky

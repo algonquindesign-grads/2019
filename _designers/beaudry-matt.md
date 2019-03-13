@@ -1,4 +1,5 @@
 ---
+title: Matt Beaudry • Designer
 layout: designer-profile-videobyimages
 name: Matt Beaudry
 last-name: beaudry

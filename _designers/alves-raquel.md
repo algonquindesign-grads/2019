@@ -1,4 +1,5 @@
 ---
+title: Raquel Alves • Designer
 layout: designer-profile-imagesbyimage
 name: Raquel Alves
 last-name: alves

@@ -1,4 +1,5 @@
 ---
+title: Adam Robillard • Designer
 layout: designer-profile-videobyimages
 name: Adam Robillard
 last-name: robillard
