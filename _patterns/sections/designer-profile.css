@@ -5,7 +5,7 @@
 
 
 .designer-links {
-  color: var(--color-accent-dark);
+  color: var(--color-white);
 }
 
 .designer-links:hover {
@@ -18,5 +18,21 @@ a {
 }
 
 .designer-links:hover {
-  color: var(--color-accent-dark);
+  color: var(--color-white);
+}
+
+main .icon svg {
+  fill: var(--color-white);
+}
+
+@media only screen and (min-width: 38em) {
+
+  .designer-links {
+      color: var(--color-accent-dark);
+  }
+
+  main .icon svg {
+    fill: var(--color-accent-dark);
+  }
+
 }
