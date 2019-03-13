@@ -1,11 +1,15 @@
 .designer-picks {
   color: var(--color-white);
-  border: 3px solid var(--color-white);
+  border: 2px solid var(--color-white);
 }
 
 
 .designer-links {
-  color: var(--white-colour);
+  color: var(--color-accent-dark);
+}
+
+.designer-links:hover {
+  color: var(--color-white);
 }
 
 a {
