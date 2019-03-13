@@ -1,4 +1,5 @@
 ---
+title: Sung Woon Jeong • Designer
 layout: designer-profile-videobyimages
 name: Sung Woon Jeong
 last-name: woonjeong

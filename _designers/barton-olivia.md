@@ -1,4 +1,5 @@
 ---
+title: Olivia Barton • Designer
 layout: designer-profile-allimages
 name: Olivia Barton
 last-name: barton

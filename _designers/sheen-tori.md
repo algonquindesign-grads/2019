@@ -1,4 +1,5 @@
 ---
+title: Tori Sheen • Designer
 layout: designer-profile-landscapeimages
 name: Tori Sheen
 last-name: sheen

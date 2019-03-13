@@ -1,4 +1,5 @@
 ---
+title: Janelle Zhao • Designer
 layout: designer-profile-allimages
 name: Janelle Zhao
 last-name: zhao

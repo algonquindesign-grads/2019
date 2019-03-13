@@ -1,4 +1,5 @@
 ---
+title: Adam Van-Vianen • Designer
 layout: designer-profile-videobyimages
 name: Adam Van-Vianen
 last-name: vanvianen

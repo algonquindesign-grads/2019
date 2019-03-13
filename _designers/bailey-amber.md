@@ -1,4 +1,5 @@
 ---
+title: Amber Bailey • Designer
 layout: designer-profile-imagesbyimage
 name: Amber Bailey
 last-name: bailey

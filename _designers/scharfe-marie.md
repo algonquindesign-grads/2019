@@ -1,4 +1,5 @@
 ---
+title: Marie Scharfe • Designer
 layout: designer-profile-videobyimages
 name: Marie Scharfe
 last-name: scharfe

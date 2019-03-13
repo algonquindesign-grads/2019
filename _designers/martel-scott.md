@@ -1,4 +1,5 @@
 ---
+title: Scott Martel • Designer
 layout: designer-profile-imagesbyimage
 name: Scott Martel
 last-name: martel

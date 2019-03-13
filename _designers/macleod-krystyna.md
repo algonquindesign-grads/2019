@@ -1,4 +1,5 @@
 ---
+title: Krystyna Macleod • Designer
 layout: designer-profile-videobyimages
 name: Krystyna Macleod
 last-name: macleod

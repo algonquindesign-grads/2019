@@ -1,4 +1,5 @@
 ---
+title: Petra van Eeghen • Designer
 layout: designer-profile-allvideos
 name: Petra van Eeghen
 last-name: vaneeghen

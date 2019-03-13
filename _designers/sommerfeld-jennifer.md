@@ -1,4 +1,5 @@
 ---
+title: Jennifer Sommerfeld • Designer
 layout: designer-profile-allvideos
 name: Jennifer Sommerfeld
 last-name: sommerfeld

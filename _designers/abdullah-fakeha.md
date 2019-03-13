@@ -1,4 +1,5 @@
 ---
+title: Fakeha Abdullah • Designer
 layout: designer-profile-videobyimages
 name: Fakeha Abdullah
 last-name: abdullah

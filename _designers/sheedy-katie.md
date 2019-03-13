@@ -1,4 +1,5 @@
 ---
+title: Katie Sheedy • Designer
 layout: designer-profile-videobyimages
 name: Katie Sheedy
 last-name: sheedy

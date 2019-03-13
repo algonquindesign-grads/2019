@@ -1,4 +1,5 @@
 ---
+title: Diandra Thompson • Designer
 layout: designer-profile-videobyimages
 name: Diandra Thompson
 last-name: thompson
@@ -8,7 +9,7 @@ specialty:
   - uxui
   - webdesign
 email: diandranthompson@gmail.com
-website: www.imdee.ca
+website: http://imdee.ca
 bio: Hi my name is Diandra, some call me Dee! <br>“Designers shooting for usable is like a chef shooting for edible.” - Aarron Walter
 behance-link:
 vimeo-link:

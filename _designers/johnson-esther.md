@@ -1,4 +1,5 @@
 ---
+title: Esther Johnson • Designer
 layout: designer-profile-videobyimage
 name: Esther Johnson
 last-name: johnson
@@ -20,7 +21,7 @@ dribbble-link:
 triangle: "03"
 
 video:
-  - 315170734
+  - 322915531
 
 image:
   - image-1.jpg

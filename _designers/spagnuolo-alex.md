@@ -1,4 +1,5 @@
 ---
+title: Alex Spagnuolo • Designer
 layout: designer-profile-allimages
 name: Alex Spagnuolo
 last-name: spagnuolo

@@ -1,4 +1,5 @@
 ---
+title: Bryan Chan • Designer
 layout: designer-profile-imagebyimages
 name: Bryan Chan
 last-name: chan

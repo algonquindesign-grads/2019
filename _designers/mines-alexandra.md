@@ -1,4 +1,5 @@
 ---
+title: Alexandra Mines • Designer
 layout: designer-profile-allimages
 name: Alexandra Mines
 last-name: mines

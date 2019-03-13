@@ -1,4 +1,5 @@
 ---
+title: Derick Dinh • Designer
 layout: designer-profile-allimages
 name: Derick Dinh
 last-name: dinh

@@ -1,4 +1,5 @@
 ---
+title: Paolina Missio • Designer
 layout: designer-profile-imagesbyimage
 name: Paolina Missio
 last-name: missio

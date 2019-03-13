@@ -1,4 +1,5 @@
 ---
+title: Paul Dorsey • Designer
 layout: designer-profile-allvideos
 name: Paul Dorsey
 last-name: dorsey

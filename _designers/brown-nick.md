@@ -1,4 +1,5 @@
 ---
+title: Nick Brown • Designer
 layout: designer-profile-videobyimages
 name: Nick Brown
 last-name: brown

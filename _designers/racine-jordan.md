@@ -1,4 +1,5 @@
 ---
+title: Jordan Racine • Designer
 layout: designer-profile-allimages
 name: Jordan Racine
 last-name: racine

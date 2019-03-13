@@ -1,4 +1,5 @@
 ---
+title: Sara Habel-Liboiron • Designer
 layout: designer-profile-allimages
 name: Sara Habel-Liboiron
 last-name: habelliboiron

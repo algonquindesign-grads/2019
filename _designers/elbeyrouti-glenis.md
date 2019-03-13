@@ -1,4 +1,5 @@
 ---
+title: Glenis El-Beyrouti • Designer
 layout: designer-profile-videobyimages
 name: Glenis El-Beyrouti
 last-name: elbeyrouti

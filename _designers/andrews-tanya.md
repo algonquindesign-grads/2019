@@ -1,4 +1,5 @@
 ---
+title: Tanya Andrews • Designer
 layout: designer-profile-videobyimages
 name: Tanya Andrews
 last-name: andrews
