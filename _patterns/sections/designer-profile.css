@@ -16,7 +16,3 @@ a {
   text-decoration: none;
   font-family: var(--font-primary);
 }
-
-.designer-links:hover {
-  color: var(--color-accent-dark);
-}
