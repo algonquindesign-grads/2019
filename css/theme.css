@@ -147,3 +147,13 @@ p {
 .icon-color svg:hover {
   fill: var(--color-tertiary);
 }
+
+.def-center {
+  padding: 5rem 4rem 3rem;
+}
+
+@media only screen and (min-width: 62em) {
+  .def-center {
+    max-width: 42em;
+  }
+}
