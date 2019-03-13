@@ -6,6 +6,8 @@ first-name: petra
 specialization: Motion Graphics, VFX, videography
 specialty:
   - motiongraphics
+  - vfx
+  - videography
 email: petraeeghen@gmail.com
 website: artep.ca
 bio: I like eating fruit & nut mix and making music videos.

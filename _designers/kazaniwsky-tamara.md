@@ -10,7 +10,7 @@ specialty:
   - print
 email: tamarakazaniwsky@gmail.com
 website: http://tamaradesign.me
-bio: If design is not ever growing what is the point?  I love traditional media and working with my hands, when I mix digital and physical work, thats where the real fun begins.
+bio: "If design is not ever growing what is the point? I love traditional media and working with my hands, when I mix digital and physical work, thats where the real fun begins."
 behance-link:
 vimeo-link: https://vimeo.com/user70856884
 instagram-link: https://www.instagram.com/tamarakazaniwskyart/
