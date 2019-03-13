@@ -36,6 +36,7 @@ header .nav-items ul li a:active,
 header .nav-items ul li a:hover {
   color: var(--color-white);
   border-bottom: 2px solid var(--color-white);
+  transition: .25s;
 }
 
 @media only screen and (min-width: 60em) {
