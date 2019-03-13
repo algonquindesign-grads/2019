@@ -109,6 +109,15 @@ p {
   width: 10%;
 }
 
+.neon-yellow-designers {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 40px var(--color-secondary);
+  /* border-bottom: 2px solid var(--color-secondary);
+  width: 50%; */
+}
+
 .neon-pink-home {
   color: #fff;
   text-shadow:
