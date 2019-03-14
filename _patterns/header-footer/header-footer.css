@@ -1,7 +1,11 @@
 header {
   background-color: var(--color-tertiary);
 }
-/* #f64a72 */
+
+.logo {
+  width: 200px;
+}
+
 footer {
   background-color: var(--color-accent-dark);
 }
