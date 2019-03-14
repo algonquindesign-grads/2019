@@ -151,6 +151,27 @@ p {
   padding: 5rem 4rem 3rem;
 }
 
+a:focus {
+    border: 3px solid var(--color-secondary);
+    outline: none;
+}
+
+a:active {
+    border-color: var(--color-secondary);
+    outline: none;
+}
+
+nav:focus {
+    border: 3px solid var(--color-secondary);
+    outline: none;
+}
+
+nav:active {
+    border-color: var(--color-secondary);
+    outline: none;
+}
+
+
 @media only screen and (min-width: 62em) {
   .def-center {
     max-width: 42em;
