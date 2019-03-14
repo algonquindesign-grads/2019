@@ -9,7 +9,7 @@ specialty:
   - branding
   - illustration
 email: mykalbaytaluk@gmail.com
-website: www.mykal.ca
+website: https://mykal.co/
 bio: I'm an artistic designer that focuses on direction and strategy. I care about your project as much as you do. Maybe more.
 behance-link:
 vimeo-link: https://vimeo.com/mykalbaytaluk
