@@ -1,5 +1,5 @@
 ---
-title: François Mitins • Designer
+title: François Mittins • Designer
 layout: designer-profile-videobyimages
 name: François Mittins
 last-name: mittins
