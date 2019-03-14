@@ -2,6 +2,8 @@ $('.selector').on('click', function (e) {
   e.preventDefault();
   var catSelect = $(this).attr('id');
   console.log(catSelect);
+  $('.selector').removeClass('selected-cat');
+  $(this).addClass('selected-cat');
   $('#designer-list').removeClass('all');
   $('#designer-list').removeClass('branding');
   $('#designer-list').removeClass('illustration');
