@@ -1,4 +1,4 @@
-<a aria-label="{{designer.name}} page" href="{{site.baseurl}}/designers/{{designer.last-name}}-{{designer.first-name}}" class="inline-block relative island-1-2 designer-card{% for categories in designer.specialty %} {{categories}}{% endfor %} {% if designer.name == 'Figure 01' %}placeholder-statue{% endif %}">
+<a itemprop="url" aria-label="{{designer.name}} page" href="{{site.baseurl}}/designers/{{designer.last-name}}-{{designer.first-name}}" class="inline-block relative island-1-2 designer-card{% for categories in designer.specialty %} {{categories}}{% endfor %} {% if designer.name == 'Figure 01' %}placeholder-statue{% endif %}">
   <div class="embed embed-1by1">
     <img itemprop="image" class="img-flex embed-item designer-triangle" src="/images/triangle{{designer.triangle}}.svg" alt="">
     <div class="embed embed-1by1 pin-c">
@@ -6,7 +6,7 @@
     </div>
   </div>
   <div class="pin-cb w-1">
-    <p class="pin-c text-center text-upper nametag milli push-0 pad-t-1-4 pad-b-1-4 {% if designer.name == 'Melany Pelletier-Vaillant' %}name-shift{% endif %}">
+    <p class="pin-c text-center text-upper nametag milli push-0 pad-t-1-4 pad-b-1-4 {% if designer.name == 'Melany Pelletier-Vaillant' %}name-shift{% endif %}" itemprop="name">
       {{designer.name}}
     </p>
   </div>
