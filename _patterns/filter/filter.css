@@ -35,7 +35,6 @@
     filter .25s,
     transform .25s;
   pointer-events: none;
-  /* Katie write here: unselected category's css goes here */
 }
 
 .placeholder-statue {
