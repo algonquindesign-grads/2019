@@ -48,3 +48,7 @@
 .print .print.designer-card:focus.designer-triangle {
   transform: rotate(-15deg);
 }
+
+.designer-card:focus .designer-triangle{
+  transform: rotate(-15deg);
+}
