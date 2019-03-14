@@ -11,7 +11,7 @@ specialty:
   - motiongraphics
 email: yesreply@glenis.design
 website: http://glenis.design/
-bio: Sprinkle a little Glenis onto your creative projects and suddenly you've got some smooth motion graphics and bold colour palettes bringing things to life. I like my designs like I like my food—extra spicy.
+bio: "Sprinkle a little Glenis onto your creative projects and suddenly you've got some smooth motion graphics and bold colour palettes bringing things to life. I like my designs like I like my food—extra spicy."
 behance-link:
 vimeo-link: https://vimeo.com/user71785471
 instagram-link: https://www.instagram.com/glenis.elbeyrouti/
