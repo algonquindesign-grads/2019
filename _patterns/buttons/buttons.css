@@ -5,7 +5,6 @@
 
 .btn:hover {
   background-color: var(--color-accent-dark);
-  border: 2px solid var(--color-accent-dark);
   color: var(--color-tertiary);
   transition: .25s;
 }

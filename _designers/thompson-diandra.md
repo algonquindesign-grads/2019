@@ -14,7 +14,7 @@ bio: Hi my name is Diandra, some call me Dee! <br>“Designers shooting for usab
 behance-link:
 vimeo-link:
 instagram-link:
-linkedin-link: www.linkedin.com/in/diandra-thompson
+linkedin-link: https://www.linkedin.com/in/diandra-thompson/
 github-link:
 dribbble-link:
 triangle: "02"

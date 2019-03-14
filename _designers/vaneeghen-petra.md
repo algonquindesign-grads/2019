@@ -11,7 +11,7 @@ specialty:
   - videography
 email: petraeeghen@gmail.com
 website: http://artep.ca
-bio: I like eating fruit & nut mix and making music videos.
+bio: "I like eating fruit & nut mix and making music videos."
 behance-link:
 vimeo-link: https://vimeo.com/petraeeghen
 instagram-link: https://www.instagram.com/petraeeghen/

@@ -13,7 +13,7 @@ website: http://planetorium.ca
 bio: I have been interested in helping others and solving problems my whole life. I am a firm believer that we can always strive to make things better for others. My goal is to make people feel good and have great experiences.
 behance-link: https://www.behance.net/planetorium
 vimeo-link:
-instagram-link: https://www.instagram.com/-planetorium/
+instagram-link: https://www.instagram.com/_planetorium/
 linkedin-link:
 github-link:
 dribbble-link:
