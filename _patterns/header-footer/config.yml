@@ -1,0 +1,16 @@
+title: "Header & Footer Pattern"
+description: |
+  A collection of header & footer patterns.
+patterns:
+  designers-header:
+    title: "Header for designer page"
+    description: |
+      The header used for the individual designer pages. It has the option to move to the next & previous designer, creating an easy navigation between designers.
+  footer:
+    title: "Footer"
+    description: |
+      Footer pattern consisting of logo, social media links & copyright. It is to be used on all pages.
+  header:
+    title: "Header"
+    description: |
+      Header pattern that consists of basic navigation.
