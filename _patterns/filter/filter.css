@@ -9,6 +9,7 @@
   text-decoration: none;
 }
 
+.selected-cat,
 .selector:hover,
 .selector:focus,
 .selector:active {
