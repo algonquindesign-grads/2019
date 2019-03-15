@@ -1,5 +1,31 @@
 permalink: pretty
 theme: jekyll_patternbot
+patternbot:
+  title: "Pathfinder"
+  description: |
+    Algonquin College Graphic Design graduating class website.
+  layouts:
+    title: "Layouts"
+    description: |
+      Collection of layouts
+    default: |
+        The default layout consists of a standard header & footer. It can be used on the main pages.
+    designer-profile-allimages: |
+        The layout consists of 4 1by1 images. It can be used for designer page gallery.
+    designer-profile-allvideos: |
+        The layout consists of 4 1by1 images. It can be used for designer page gallery.
+    designer-profile-imagebyimages: |
+        The layout consists of 1 landscape image and 2 1by1 images. It can be used for designer page gallery.
+    designer-profile-imagesbyimage: |
+        The layout consists of 2 1by1 images and 1 landscape image. It can be used for designer page gallery.
+    designer-profile-landscapeimages: |
+        The layout consists of 2 landscape images. It can be used for designer page gallery.
+    designer-profile-videobyimage: |
+        The layout 1 video and 1 landscape image. It can be used for designer page gallery.
+    designer-profile-videobyimages: |
+        The layout consists 1 video and 2 1by1 images. It can be used for designer page gallery.
+    designers-layout: |
+        The layout consists of a header with prev & next option to help the users move between designers. It is to be used for the individual designer page.
 
 collections:
   designers:

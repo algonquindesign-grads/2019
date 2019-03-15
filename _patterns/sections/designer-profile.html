@@ -1,6 +1,6 @@
 <div class="island" itemscope itemtype="https://schema.org/Person">
 
-  <h2 class="push yotta neon-yellow-designers">{{page.name}}</h2>
+  <h2 class="push yotta neon-yellow-designers">{{page.name | default: 'Jane Doe'}}</h2>
   <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-0">
     {% if page.specialty[0] %}
       <li class="list-group-item text-center"><p class="pad-b-1-4 push-none pad-t-1-4 nano color-accent-dark"> {{page.specialty[0] | replace: 'motiongraphics', 'motion graphics' | replace: 'webdesign', 'web design' | replace: 'uxui', 'ux/ui' | upcase | default: 'Branding'}} | </p></li>
