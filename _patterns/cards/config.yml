@@ -26,10 +26,10 @@ patterns:
     fields:
       - name: triangleImage
         type: image
-        example: "pepper.jpg"
+        example: "triangle02.svg"
       - name: image
         type: image
-        example: "pepper.jpg"
+        example: "bradley-thomas.png"
       - name: name
         type: string
         example: "John Doe"

@@ -1,7 +1,7 @@
 $('.selector').on('click', function (e) {
   e.preventDefault();
   var catSelect = $(this).attr('id');
-  console.log(catSelect);
+  $('#designer-list a').removeAttr('tabindex');
   $('.selector').removeClass('selected-cat');
   $(this).addClass('selected-cat');
   $('#designer-list').removeClass('all');
@@ -13,4 +13,7 @@ $('.selector').on('click', function (e) {
   $('#designer-list').removeClass('photography');
   $('#designer-list').removeClass('print');
   $('#designer-list').addClass(catSelect);
+  if (catSelect != 'all') {
+    $('#designer-list a:not(.' + catSelect + ')').attr('tabindex', '-1');
+  }
 });

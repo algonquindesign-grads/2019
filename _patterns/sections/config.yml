@@ -11,6 +11,7 @@ patterns:
     description: |
       This section consists of designer specialization, about & social media links.
   sponsors:
+    background: "--color-primary"
     title: "Sponsors section"
     description: |
       Section that consists of a list of sponsors.

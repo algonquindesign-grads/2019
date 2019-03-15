@@ -153,8 +153,7 @@ p {
 
 a:focus,
 [tabindex="0"]:focus {
-  border: 2px solid var(--color-secondary);
-  outline: none;
+  outline: 2px solid var(--color-secondary);
 }
 
 

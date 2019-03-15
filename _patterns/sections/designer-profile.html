@@ -1,6 +1,6 @@
 <div class="island" itemscope itemtype="https://schema.org/Person">
 
-  <h2 class="push yotta neon-yellow-designers">{{page.name}}</h2>
+  <h2 class="push yotta neon-yellow-designers">{{page.name | default: 'Jane Doe'}}</h2>
   <ul itempscope itemtype="http://schema.org/ItemListOrderType" class="list-group-inline push-0">
     {% if page.specialty[0] %}
       <li class="list-group-item text-center"><p class="pad-b-1-4 push-none pad-t-1-4 nano color-accent-dark"> {{page.specialty[0] | replace: 'motiongraphics', 'motion graphics' | replace: 'webdesign', 'web design' | replace: 'uxui', 'ux/ui' | upcase | default: 'Branding'}} | </p></li>
@@ -16,13 +16,13 @@
   <p class="push kilo color-white" itemprop="about">{{page.bio}}</p>
   <div class="grid grid-middle push-1-2">
     <div class="unit xs-1 s-1 m-1 l-1">
-      <a itemprop="url" aria-label="Website link" class="designer-links milli" href="{{page.website}}">
+      <a itemprop="url" aria-label="Website link" class="designer-links milli ib" href="{{page.website}}">
         <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#www-icon"></use></svg></i> Website
       </a>
     </div>
 
     <div class="unit xs-1 s-1 m-1 l-1">
-      <a itemprop="email" aria-label="Email" class="designer-links milli" href="mailto:{{page.email}}">
+      <a itemprop="email" aria-label="Email" class="designer-links milli ib" href="mailto:{{page.email}}">
         <i class="icon i-32"><svg><use xlink:href="/images/icons.svg#email-icon"></use></svg></i> Email
       </a>
     </div>
