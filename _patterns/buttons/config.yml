@@ -1,0 +1,8 @@
+title: "Buttons"
+description: |
+  A collection of buttons for all occasions.
+patterns:
+  basic-button:
+    title: "Basic Button"
+    description: |
+      The button can be used as a basic button pattern. Styling can be used as a template for more patterns. Can be used as call-to-action.

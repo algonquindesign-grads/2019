@@ -1,6 +1,7 @@
 .btn {
   background-color: var(--color-tertiary);
   border: 2px solid var(--color-tertiary);
+  border-radius: 0;
 }
 
 .btn:hover {

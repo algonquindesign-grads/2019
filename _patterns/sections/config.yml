@@ -1,0 +1,16 @@
+title: "Sections"
+description: |
+  A collection of sections used in different parts of the website.
+patterns:
+  designer-bio:
+    title: "Section for designer details"
+    description: |
+      The sections consists of designer image, bio & gallery.
+  designer-profile:
+    title: "Designer profile"
+    description: |
+      This section consists of designer specialization, about & social media links.
+  sponsors:
+    title: "Sponsors section"
+    description: |
+      Section that consists of a list of sponsors.
